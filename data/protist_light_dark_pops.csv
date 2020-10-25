@@ -1,0 +1,2017 @@
+temporal_change,dispersal,replicate,time,predicted_species,environment_1,community,N
+no,no dispersal,1,1,col,dark,monoculture,132
+no,no dispersal,1,1,col,dark,polyculture,43
+no,no dispersal,1,1,col,light,monoculture,37
+no,no dispersal,1,1,col,light,polyculture,47
+no,no dispersal,1,1,eug,dark,monoculture,643
+no,no dispersal,1,1,eug,dark,polyculture,58
+no,no dispersal,1,1,eug,light,monoculture,3224
+no,no dispersal,1,1,eug,light,polyculture,112
+no,no dispersal,1,1,eup,dark,monoculture,49
+no,no dispersal,1,1,eup,dark,polyculture,5
+no,no dispersal,1,1,eup,light,monoculture,45
+no,no dispersal,1,1,eup,light,polyculture,8
+no,no dispersal,1,1,pau,dark,monoculture,167
+no,no dispersal,1,1,pau,dark,polyculture,25
+no,no dispersal,1,1,pau,light,monoculture,105
+no,no dispersal,1,1,pau,light,polyculture,11
+no,no dispersal,1,1,rot,dark,monoculture,81
+no,no dispersal,1,1,rot,dark,polyculture,81
+no,no dispersal,1,1,rot,light,monoculture,224
+no,no dispersal,1,1,rot,light,polyculture,32
+no,no dispersal,1,1,spi,dark,monoculture,12
+no,no dispersal,1,1,spi,dark,polyculture,22
+no,no dispersal,1,1,spi,light,monoculture,10
+no,no dispersal,1,1,spi,light,polyculture,7
+no,no dispersal,1,1,tet,dark,monoculture,172
+no,no dispersal,1,1,tet,dark,polyculture,101
+no,no dispersal,1,1,tet,light,monoculture,127
+no,no dispersal,1,1,tet,light,polyculture,71
+no,no dispersal,1,2,col,dark,monoculture,467
+no,no dispersal,1,2,col,dark,polyculture,107
+no,no dispersal,1,2,col,light,monoculture,201
+no,no dispersal,1,2,col,light,polyculture,55
+no,no dispersal,1,2,eug,dark,monoculture,388
+no,no dispersal,1,2,eug,dark,polyculture,53
+no,no dispersal,1,2,eug,light,monoculture,6267
+no,no dispersal,1,2,eug,light,polyculture,61
+no,no dispersal,1,2,eup,dark,monoculture,105
+no,no dispersal,1,2,eup,dark,polyculture,43
+no,no dispersal,1,2,eup,light,monoculture,207
+no,no dispersal,1,2,eup,light,polyculture,0
+no,no dispersal,1,2,pau,dark,monoculture,85
+no,no dispersal,1,2,pau,dark,polyculture,40
+no,no dispersal,1,2,pau,light,monoculture,88
+no,no dispersal,1,2,pau,light,polyculture,17
+no,no dispersal,1,2,rot,dark,monoculture,261
+no,no dispersal,1,2,rot,dark,polyculture,21
+no,no dispersal,1,2,rot,light,monoculture,276
+no,no dispersal,1,2,rot,light,polyculture,4
+no,no dispersal,1,2,spi,dark,monoculture,531
+no,no dispersal,1,2,spi,dark,polyculture,3
+no,no dispersal,1,2,spi,light,monoculture,31
+no,no dispersal,1,2,spi,light,polyculture,0
+no,no dispersal,1,2,tet,dark,monoculture,328
+no,no dispersal,1,2,tet,dark,polyculture,9
+no,no dispersal,1,2,tet,light,monoculture,392
+no,no dispersal,1,2,tet,light,polyculture,17
+no,no dispersal,1,3,col,dark,monoculture,124
+no,no dispersal,1,3,col,dark,polyculture,44
+no,no dispersal,1,3,col,light,monoculture,79
+no,no dispersal,1,3,col,light,polyculture,19
+no,no dispersal,1,3,eug,dark,monoculture,126
+no,no dispersal,1,3,eug,dark,polyculture,22
+no,no dispersal,1,3,eug,light,monoculture,6588
+no,no dispersal,1,3,eug,light,polyculture,44
+no,no dispersal,1,3,eup,dark,monoculture,44
+no,no dispersal,1,3,eup,dark,polyculture,8
+no,no dispersal,1,3,eup,light,monoculture,49
+no,no dispersal,1,3,eup,light,polyculture,2
+no,no dispersal,1,3,pau,dark,monoculture,35
+no,no dispersal,1,3,pau,dark,polyculture,17
+no,no dispersal,1,3,pau,light,monoculture,5
+no,no dispersal,1,3,pau,light,polyculture,2
+no,no dispersal,1,3,rot,dark,monoculture,95
+no,no dispersal,1,3,rot,dark,polyculture,0
+no,no dispersal,1,3,rot,light,monoculture,112
+no,no dispersal,1,3,rot,light,polyculture,0
+no,no dispersal,1,3,spi,dark,monoculture,69
+no,no dispersal,1,3,spi,dark,polyculture,2
+no,no dispersal,1,3,spi,light,monoculture,36
+no,no dispersal,1,3,spi,light,polyculture,1
+no,no dispersal,1,3,tet,dark,monoculture,62
+no,no dispersal,1,3,tet,dark,polyculture,6
+no,no dispersal,1,3,tet,light,monoculture,211
+no,no dispersal,1,3,tet,light,polyculture,0
+no,no dispersal,1,4,col,dark,monoculture,617
+no,no dispersal,1,4,col,dark,polyculture,25
+no,no dispersal,1,4,col,light,monoculture,175
+no,no dispersal,1,4,col,light,polyculture,79
+no,no dispersal,1,4,eug,dark,monoculture,181
+no,no dispersal,1,4,eug,dark,polyculture,8
+no,no dispersal,1,4,eug,light,monoculture,5509
+no,no dispersal,1,4,eug,light,polyculture,184
+no,no dispersal,1,4,eup,dark,monoculture,65
+no,no dispersal,1,4,eup,dark,polyculture,3
+no,no dispersal,1,4,eup,light,monoculture,99
+no,no dispersal,1,4,eup,light,polyculture,11
+no,no dispersal,1,4,pau,dark,monoculture,23
+no,no dispersal,1,4,pau,dark,polyculture,1
+no,no dispersal,1,4,pau,light,monoculture,4
+no,no dispersal,1,4,pau,light,polyculture,14
+no,no dispersal,1,4,rot,dark,monoculture,116
+no,no dispersal,1,4,rot,dark,polyculture,14
+no,no dispersal,1,4,rot,light,monoculture,215
+no,no dispersal,1,4,rot,light,polyculture,5
+no,no dispersal,1,4,spi,dark,monoculture,120
+no,no dispersal,1,4,spi,dark,polyculture,1
+no,no dispersal,1,4,spi,light,monoculture,49
+no,no dispersal,1,4,spi,light,polyculture,1
+no,no dispersal,1,4,tet,dark,monoculture,597
+no,no dispersal,1,4,tet,dark,polyculture,59
+no,no dispersal,1,4,tet,light,monoculture,73
+no,no dispersal,1,4,tet,light,polyculture,4
+no,no dispersal,2,1,col,dark,monoculture,292
+no,no dispersal,2,1,col,dark,polyculture,89
+no,no dispersal,2,1,col,light,monoculture,85
+no,no dispersal,2,1,col,light,polyculture,20
+no,no dispersal,2,1,eug,dark,monoculture,53
+no,no dispersal,2,1,eug,dark,polyculture,11
+no,no dispersal,2,1,eug,light,monoculture,4846
+no,no dispersal,2,1,eug,light,polyculture,131
+no,no dispersal,2,1,eup,dark,monoculture,46
+no,no dispersal,2,1,eup,dark,polyculture,7
+no,no dispersal,2,1,eup,light,monoculture,76
+no,no dispersal,2,1,eup,light,polyculture,1
+no,no dispersal,2,1,pau,dark,monoculture,137
+no,no dispersal,2,1,pau,dark,polyculture,5
+no,no dispersal,2,1,pau,light,monoculture,89
+no,no dispersal,2,1,pau,light,polyculture,9
+no,no dispersal,2,1,rot,dark,monoculture,355
+no,no dispersal,2,1,rot,dark,polyculture,23
+no,no dispersal,2,1,rot,light,monoculture,341
+no,no dispersal,2,1,rot,light,polyculture,7
+no,no dispersal,2,1,spi,dark,monoculture,31
+no,no dispersal,2,1,spi,dark,polyculture,0
+no,no dispersal,2,1,spi,light,monoculture,15
+no,no dispersal,2,1,spi,light,polyculture,0
+no,no dispersal,2,1,tet,dark,monoculture,144
+no,no dispersal,2,1,tet,dark,polyculture,34
+no,no dispersal,2,1,tet,light,monoculture,181
+no,no dispersal,2,1,tet,light,polyculture,55
+no,no dispersal,2,2,col,dark,monoculture,323
+no,no dispersal,2,2,col,dark,polyculture,90
+no,no dispersal,2,2,col,light,monoculture,45
+no,no dispersal,2,2,col,light,polyculture,33
+no,no dispersal,2,2,eug,dark,monoculture,203
+no,no dispersal,2,2,eug,dark,polyculture,18
+no,no dispersal,2,2,eug,light,monoculture,15858
+no,no dispersal,2,2,eug,light,polyculture,31
+no,no dispersal,2,2,eup,dark,monoculture,48
+no,no dispersal,2,2,eup,dark,polyculture,13
+no,no dispersal,2,2,eup,light,monoculture,82
+no,no dispersal,2,2,eup,light,polyculture,4
+no,no dispersal,2,2,pau,dark,monoculture,50
+no,no dispersal,2,2,pau,dark,polyculture,9
+no,no dispersal,2,2,pau,light,monoculture,55
+no,no dispersal,2,2,pau,light,polyculture,4
+no,no dispersal,2,2,rot,dark,monoculture,717
+no,no dispersal,2,2,rot,dark,polyculture,9
+no,no dispersal,2,2,rot,light,monoculture,260
+no,no dispersal,2,2,rot,light,polyculture,9
+no,no dispersal,2,2,spi,dark,monoculture,20
+no,no dispersal,2,2,spi,dark,polyculture,0
+no,no dispersal,2,2,spi,light,monoculture,32
+no,no dispersal,2,2,spi,light,polyculture,1
+no,no dispersal,2,2,tet,dark,monoculture,177
+no,no dispersal,2,2,tet,dark,polyculture,2
+no,no dispersal,2,2,tet,light,monoculture,513
+no,no dispersal,2,2,tet,light,polyculture,16
+no,no dispersal,2,3,col,dark,monoculture,576
+no,no dispersal,2,3,col,dark,polyculture,22
+no,no dispersal,2,3,col,light,monoculture,164
+no,no dispersal,2,3,col,light,polyculture,15
+no,no dispersal,2,3,eug,dark,monoculture,357
+no,no dispersal,2,3,eug,dark,polyculture,5
+no,no dispersal,2,3,eug,light,monoculture,14007
+no,no dispersal,2,3,eug,light,polyculture,57
+no,no dispersal,2,3,eup,dark,monoculture,26
+no,no dispersal,2,3,eup,dark,polyculture,7
+no,no dispersal,2,3,eup,light,monoculture,205
+no,no dispersal,2,3,eup,light,polyculture,2
+no,no dispersal,2,3,pau,dark,monoculture,29
+no,no dispersal,2,3,pau,dark,polyculture,2
+no,no dispersal,2,3,pau,light,monoculture,7
+no,no dispersal,2,3,pau,light,polyculture,13
+no,no dispersal,2,3,rot,dark,monoculture,70
+no,no dispersal,2,3,rot,dark,polyculture,2
+no,no dispersal,2,3,rot,light,monoculture,273
+no,no dispersal,2,3,rot,light,polyculture,12
+no,no dispersal,2,3,spi,dark,monoculture,78
+no,no dispersal,2,3,spi,dark,polyculture,0
+no,no dispersal,2,3,spi,light,monoculture,16
+no,no dispersal,2,3,spi,light,polyculture,0
+no,no dispersal,2,3,tet,dark,monoculture,57
+no,no dispersal,2,3,tet,dark,polyculture,17
+no,no dispersal,2,3,tet,light,monoculture,105
+no,no dispersal,2,3,tet,light,polyculture,2
+no,no dispersal,2,4,col,dark,monoculture,135
+no,no dispersal,2,4,col,dark,polyculture,32
+no,no dispersal,2,4,col,light,monoculture,17
+no,no dispersal,2,4,col,light,polyculture,35
+no,no dispersal,2,4,eug,dark,monoculture,128
+no,no dispersal,2,4,eug,dark,polyculture,0
+no,no dispersal,2,4,eug,light,monoculture,10489
+no,no dispersal,2,4,eug,light,polyculture,108
+no,no dispersal,2,4,eup,dark,monoculture,39
+no,no dispersal,2,4,eup,dark,polyculture,12
+no,no dispersal,2,4,eup,light,monoculture,67
+no,no dispersal,2,4,eup,light,polyculture,3
+no,no dispersal,2,4,pau,dark,monoculture,1
+no,no dispersal,2,4,pau,dark,polyculture,0
+no,no dispersal,2,4,pau,light,monoculture,2
+no,no dispersal,2,4,pau,light,polyculture,0
+no,no dispersal,2,4,rot,dark,monoculture,61
+no,no dispersal,2,4,rot,dark,polyculture,0
+no,no dispersal,2,4,rot,light,monoculture,390
+no,no dispersal,2,4,rot,light,polyculture,6
+no,no dispersal,2,4,spi,dark,monoculture,46
+no,no dispersal,2,4,spi,dark,polyculture,0
+no,no dispersal,2,4,spi,light,monoculture,15
+no,no dispersal,2,4,spi,light,polyculture,1
+no,no dispersal,2,4,tet,dark,monoculture,226
+no,no dispersal,2,4,tet,dark,polyculture,1
+no,no dispersal,2,4,tet,light,monoculture,447
+no,no dispersal,2,4,tet,light,polyculture,6
+no,no dispersal,3,1,col,dark,monoculture,22
+no,no dispersal,3,1,col,dark,polyculture,51
+no,no dispersal,3,1,col,light,monoculture,44
+no,no dispersal,3,1,col,light,polyculture,16
+no,no dispersal,3,1,eug,dark,monoculture,139
+no,no dispersal,3,1,eug,dark,polyculture,21
+no,no dispersal,3,1,eug,light,monoculture,4612
+no,no dispersal,3,1,eug,light,polyculture,257
+no,no dispersal,3,1,eup,dark,monoculture,22
+no,no dispersal,3,1,eup,dark,polyculture,11
+no,no dispersal,3,1,eup,light,monoculture,28
+no,no dispersal,3,1,eup,light,polyculture,11
+no,no dispersal,3,1,pau,dark,monoculture,244
+no,no dispersal,3,1,pau,dark,polyculture,35
+no,no dispersal,3,1,pau,light,monoculture,85
+no,no dispersal,3,1,pau,light,polyculture,13
+no,no dispersal,3,1,rot,dark,monoculture,107
+no,no dispersal,3,1,rot,dark,polyculture,116
+no,no dispersal,3,1,rot,light,monoculture,263
+no,no dispersal,3,1,rot,light,polyculture,35
+no,no dispersal,3,1,spi,dark,monoculture,22
+no,no dispersal,3,1,spi,dark,polyculture,8
+no,no dispersal,3,1,spi,light,monoculture,8
+no,no dispersal,3,1,spi,light,polyculture,6
+no,no dispersal,3,1,tet,dark,monoculture,188
+no,no dispersal,3,1,tet,dark,polyculture,65
+no,no dispersal,3,1,tet,light,monoculture,166
+no,no dispersal,3,1,tet,light,polyculture,70
+no,no dispersal,3,2,col,dark,monoculture,49
+no,no dispersal,3,2,col,dark,polyculture,84
+no,no dispersal,3,2,col,light,monoculture,50
+no,no dispersal,3,2,col,light,polyculture,27
+no,no dispersal,3,2,eug,dark,monoculture,56
+no,no dispersal,3,2,eug,dark,polyculture,8
+no,no dispersal,3,2,eug,light,monoculture,9581
+no,no dispersal,3,2,eug,light,polyculture,31
+no,no dispersal,3,2,eup,dark,monoculture,27
+no,no dispersal,3,2,eup,dark,polyculture,11
+no,no dispersal,3,2,eup,light,monoculture,135
+no,no dispersal,3,2,eup,light,polyculture,4
+no,no dispersal,3,2,pau,dark,monoculture,98
+no,no dispersal,3,2,pau,dark,polyculture,23
+no,no dispersal,3,2,pau,light,monoculture,41
+no,no dispersal,3,2,pau,light,polyculture,11
+no,no dispersal,3,2,rot,dark,monoculture,56
+no,no dispersal,3,2,rot,dark,polyculture,0
+no,no dispersal,3,2,rot,light,monoculture,10
+no,no dispersal,3,2,rot,light,polyculture,1
+no,no dispersal,3,2,spi,dark,monoculture,15
+no,no dispersal,3,2,spi,dark,polyculture,0
+no,no dispersal,3,2,spi,light,monoculture,4
+no,no dispersal,3,2,spi,light,polyculture,0
+no,no dispersal,3,2,tet,dark,monoculture,101
+no,no dispersal,3,2,tet,dark,polyculture,1
+no,no dispersal,3,2,tet,light,monoculture,87
+no,no dispersal,3,2,tet,light,polyculture,5
+no,no dispersal,3,3,col,dark,monoculture,111
+no,no dispersal,3,3,col,dark,polyculture,23
+no,no dispersal,3,3,col,light,monoculture,68
+no,no dispersal,3,3,col,light,polyculture,28
+no,no dispersal,3,3,eug,dark,monoculture,34
+no,no dispersal,3,3,eug,dark,polyculture,4
+no,no dispersal,3,3,eug,light,monoculture,6489
+no,no dispersal,3,3,eug,light,polyculture,14
+no,no dispersal,3,3,eup,dark,monoculture,36
+no,no dispersal,3,3,eup,dark,polyculture,56
+no,no dispersal,3,3,eup,light,monoculture,64
+no,no dispersal,3,3,eup,light,polyculture,0
+no,no dispersal,3,3,pau,dark,monoculture,101
+no,no dispersal,3,3,pau,dark,polyculture,6
+no,no dispersal,3,3,pau,light,monoculture,18
+no,no dispersal,3,3,pau,light,polyculture,3
+no,no dispersal,3,3,rot,dark,monoculture,54
+no,no dispersal,3,3,rot,dark,polyculture,0
+no,no dispersal,3,3,rot,light,monoculture,136
+no,no dispersal,3,3,rot,light,polyculture,1
+no,no dispersal,3,3,spi,dark,monoculture,22
+no,no dispersal,3,3,spi,dark,polyculture,1
+no,no dispersal,3,3,spi,light,monoculture,58
+no,no dispersal,3,3,spi,light,polyculture,0
+no,no dispersal,3,3,tet,dark,monoculture,282
+no,no dispersal,3,3,tet,dark,polyculture,2
+no,no dispersal,3,3,tet,light,monoculture,94
+no,no dispersal,3,3,tet,light,polyculture,2
+no,no dispersal,3,4,col,dark,monoculture,252
+no,no dispersal,3,4,col,dark,polyculture,16
+no,no dispersal,3,4,col,light,monoculture,65
+no,no dispersal,3,4,col,light,polyculture,106
+no,no dispersal,3,4,eug,dark,monoculture,120
+no,no dispersal,3,4,eug,dark,polyculture,1
+no,no dispersal,3,4,eug,light,monoculture,10014
+no,no dispersal,3,4,eug,light,polyculture,218
+no,no dispersal,3,4,eup,dark,monoculture,74
+no,no dispersal,3,4,eup,dark,polyculture,4
+no,no dispersal,3,4,eup,light,monoculture,253
+no,no dispersal,3,4,eup,light,polyculture,6
+no,no dispersal,3,4,pau,dark,monoculture,2
+no,no dispersal,3,4,pau,dark,polyculture,5
+no,no dispersal,3,4,pau,light,monoculture,7
+no,no dispersal,3,4,pau,light,polyculture,1
+no,no dispersal,3,4,rot,dark,monoculture,34
+no,no dispersal,3,4,rot,dark,polyculture,0
+no,no dispersal,3,4,rot,light,monoculture,77
+no,no dispersal,3,4,rot,light,polyculture,3
+no,no dispersal,3,4,spi,dark,monoculture,12
+no,no dispersal,3,4,spi,dark,polyculture,0
+no,no dispersal,3,4,spi,light,monoculture,29
+no,no dispersal,3,4,spi,light,polyculture,0
+no,no dispersal,3,4,tet,dark,monoculture,79
+no,no dispersal,3,4,tet,dark,polyculture,4
+no,no dispersal,3,4,tet,light,monoculture,68
+no,no dispersal,3,4,tet,light,polyculture,3
+no,no dispersal,4,1,col,dark,polyculture,95
+no,no dispersal,4,1,col,light,polyculture,42
+no,no dispersal,4,1,eug,dark,polyculture,31
+no,no dispersal,4,1,eug,light,polyculture,133
+no,no dispersal,4,1,eup,dark,polyculture,3
+no,no dispersal,4,1,eup,light,polyculture,6
+no,no dispersal,4,1,pau,dark,polyculture,13
+no,no dispersal,4,1,pau,light,polyculture,14
+no,no dispersal,4,1,rot,dark,polyculture,43
+no,no dispersal,4,1,rot,light,polyculture,23
+no,no dispersal,4,1,spi,dark,polyculture,14
+no,no dispersal,4,1,spi,light,polyculture,2
+no,no dispersal,4,1,tet,dark,polyculture,38
+no,no dispersal,4,1,tet,light,polyculture,109
+no,no dispersal,4,2,col,dark,polyculture,103
+no,no dispersal,4,2,col,light,polyculture,61
+no,no dispersal,4,2,eug,dark,polyculture,32
+no,no dispersal,4,2,eug,light,polyculture,34
+no,no dispersal,4,2,eup,dark,polyculture,7
+no,no dispersal,4,2,eup,light,polyculture,0
+no,no dispersal,4,2,pau,dark,polyculture,34
+no,no dispersal,4,2,pau,light,polyculture,3
+no,no dispersal,4,2,rot,dark,polyculture,3
+no,no dispersal,4,2,rot,light,polyculture,1
+no,no dispersal,4,2,spi,dark,polyculture,0
+no,no dispersal,4,2,spi,light,polyculture,1
+no,no dispersal,4,2,tet,dark,polyculture,3
+no,no dispersal,4,2,tet,light,polyculture,5
+no,no dispersal,4,3,col,dark,polyculture,40
+no,no dispersal,4,3,col,light,polyculture,13
+no,no dispersal,4,3,eug,dark,polyculture,35
+no,no dispersal,4,3,eug,light,polyculture,68
+no,no dispersal,4,3,eup,dark,polyculture,9
+no,no dispersal,4,3,eup,light,polyculture,1
+no,no dispersal,4,3,pau,dark,polyculture,1
+no,no dispersal,4,3,pau,light,polyculture,4
+no,no dispersal,4,3,rot,dark,polyculture,5
+no,no dispersal,4,3,rot,light,polyculture,7
+no,no dispersal,4,3,spi,dark,polyculture,2
+no,no dispersal,4,3,spi,light,polyculture,0
+no,no dispersal,4,3,tet,dark,polyculture,5
+no,no dispersal,4,3,tet,light,polyculture,3
+no,no dispersal,4,4,col,dark,polyculture,53
+no,no dispersal,4,4,col,light,polyculture,60
+no,no dispersal,4,4,eug,dark,polyculture,11
+no,no dispersal,4,4,eug,light,polyculture,199
+no,no dispersal,4,4,eup,dark,polyculture,12
+no,no dispersal,4,4,eup,light,polyculture,0
+no,no dispersal,4,4,pau,dark,polyculture,2
+no,no dispersal,4,4,pau,light,polyculture,4
+no,no dispersal,4,4,rot,dark,polyculture,17
+no,no dispersal,4,4,rot,light,polyculture,1
+no,no dispersal,4,4,spi,dark,polyculture,0
+no,no dispersal,4,4,spi,light,polyculture,0
+no,no dispersal,4,4,tet,dark,polyculture,28
+no,no dispersal,4,4,tet,light,polyculture,0
+no,no dispersal,5,1,col,dark,polyculture,27
+no,no dispersal,5,1,col,light,polyculture,4
+no,no dispersal,5,1,eug,dark,polyculture,4
+no,no dispersal,5,1,eug,light,polyculture,164
+no,no dispersal,5,1,eup,dark,polyculture,7
+no,no dispersal,5,1,eup,light,polyculture,11
+no,no dispersal,5,1,pau,dark,polyculture,14
+no,no dispersal,5,1,pau,light,polyculture,3
+no,no dispersal,5,1,rot,dark,polyculture,13
+no,no dispersal,5,1,rot,light,polyculture,7
+no,no dispersal,5,1,spi,dark,polyculture,0
+no,no dispersal,5,1,spi,light,polyculture,0
+no,no dispersal,5,1,tet,dark,polyculture,23
+no,no dispersal,5,1,tet,light,polyculture,60
+no,no dispersal,5,2,col,dark,polyculture,93
+no,no dispersal,5,2,col,light,polyculture,16
+no,no dispersal,5,2,eug,dark,polyculture,11
+no,no dispersal,5,2,eug,light,polyculture,2
+no,no dispersal,5,2,eup,dark,polyculture,4
+no,no dispersal,5,2,eup,light,polyculture,0
+no,no dispersal,5,2,pau,dark,polyculture,14
+no,no dispersal,5,2,pau,light,polyculture,0
+no,no dispersal,5,2,rot,dark,polyculture,1
+no,no dispersal,5,2,rot,light,polyculture,0
+no,no dispersal,5,2,spi,dark,polyculture,1
+no,no dispersal,5,2,spi,light,polyculture,0
+no,no dispersal,5,2,tet,dark,polyculture,1
+no,no dispersal,5,2,tet,light,polyculture,2
+no,no dispersal,5,3,col,dark,polyculture,73
+no,no dispersal,5,3,col,light,polyculture,27
+no,no dispersal,5,3,eug,dark,polyculture,28
+no,no dispersal,5,3,eug,light,polyculture,47
+no,no dispersal,5,3,eup,dark,polyculture,2
+no,no dispersal,5,3,eup,light,polyculture,2
+no,no dispersal,5,3,pau,dark,polyculture,0
+no,no dispersal,5,3,pau,light,polyculture,25
+no,no dispersal,5,3,rot,dark,polyculture,3
+no,no dispersal,5,3,rot,light,polyculture,9
+no,no dispersal,5,3,spi,dark,polyculture,0
+no,no dispersal,5,3,spi,light,polyculture,2
+no,no dispersal,5,3,tet,dark,polyculture,6
+no,no dispersal,5,3,tet,light,polyculture,3
+no,no dispersal,5,4,col,dark,polyculture,27
+no,no dispersal,5,4,col,light,polyculture,30
+no,no dispersal,5,4,eug,dark,polyculture,3
+no,no dispersal,5,4,eug,light,polyculture,26
+no,no dispersal,5,4,eup,dark,polyculture,5
+no,no dispersal,5,4,eup,light,polyculture,0
+no,no dispersal,5,4,pau,dark,polyculture,13
+no,no dispersal,5,4,pau,light,polyculture,4
+no,no dispersal,5,4,rot,dark,polyculture,1
+no,no dispersal,5,4,rot,light,polyculture,1
+no,no dispersal,5,4,spi,dark,polyculture,1
+no,no dispersal,5,4,spi,light,polyculture,1
+no,no dispersal,5,4,tet,dark,polyculture,10
+no,no dispersal,5,4,tet,light,polyculture,0
+no,no dispersal,6,1,col,dark,polyculture,54
+no,no dispersal,6,1,col,light,polyculture,40
+no,no dispersal,6,1,eug,dark,polyculture,14
+no,no dispersal,6,1,eug,light,polyculture,105
+no,no dispersal,6,1,eup,dark,polyculture,2
+no,no dispersal,6,1,eup,light,polyculture,0
+no,no dispersal,6,1,pau,dark,polyculture,14
+no,no dispersal,6,1,pau,light,polyculture,0
+no,no dispersal,6,1,rot,dark,polyculture,76
+no,no dispersal,6,1,rot,light,polyculture,6
+no,no dispersal,6,1,spi,dark,polyculture,10
+no,no dispersal,6,1,spi,light,polyculture,0
+no,no dispersal,6,1,tet,dark,polyculture,45
+no,no dispersal,6,1,tet,light,polyculture,57
+no,no dispersal,6,2,col,dark,polyculture,68
+no,no dispersal,6,2,col,light,polyculture,23
+no,no dispersal,6,2,eug,dark,polyculture,9
+no,no dispersal,6,2,eug,light,polyculture,13
+no,no dispersal,6,2,eup,dark,polyculture,8
+no,no dispersal,6,2,eup,light,polyculture,1
+no,no dispersal,6,2,pau,dark,polyculture,26
+no,no dispersal,6,2,pau,light,polyculture,26
+no,no dispersal,6,2,rot,dark,polyculture,0
+no,no dispersal,6,2,rot,light,polyculture,1
+no,no dispersal,6,2,spi,dark,polyculture,0
+no,no dispersal,6,2,spi,light,polyculture,0
+no,no dispersal,6,2,tet,dark,polyculture,0
+no,no dispersal,6,2,tet,light,polyculture,7
+no,no dispersal,6,3,col,dark,polyculture,34
+no,no dispersal,6,3,col,light,polyculture,33
+no,no dispersal,6,3,eug,dark,polyculture,19
+no,no dispersal,6,3,eug,light,polyculture,35
+no,no dispersal,6,3,eup,dark,polyculture,12
+no,no dispersal,6,3,eup,light,polyculture,2
+no,no dispersal,6,3,pau,dark,polyculture,0
+no,no dispersal,6,3,pau,light,polyculture,2
+no,no dispersal,6,3,rot,dark,polyculture,0
+no,no dispersal,6,3,rot,light,polyculture,1
+no,no dispersal,6,3,spi,dark,polyculture,0
+no,no dispersal,6,3,spi,light,polyculture,0
+no,no dispersal,6,3,tet,dark,polyculture,7
+no,no dispersal,6,3,tet,light,polyculture,0
+no,no dispersal,6,4,col,dark,polyculture,18
+no,no dispersal,6,4,col,light,polyculture,80
+no,no dispersal,6,4,eug,dark,polyculture,1
+no,no dispersal,6,4,eug,light,polyculture,361
+no,no dispersal,6,4,eup,dark,polyculture,8
+no,no dispersal,6,4,eup,light,polyculture,7
+no,no dispersal,6,4,pau,dark,polyculture,1
+no,no dispersal,6,4,pau,light,polyculture,2
+no,no dispersal,6,4,rot,dark,polyculture,3
+no,no dispersal,6,4,rot,light,polyculture,5
+no,no dispersal,6,4,spi,dark,polyculture,0
+no,no dispersal,6,4,spi,light,polyculture,0
+no,no dispersal,6,4,tet,dark,polyculture,3
+no,no dispersal,6,4,tet,light,polyculture,2
+no,dispersal,1,1,col,dark,monoculture,58
+no,dispersal,1,1,col,dark,polyculture,24
+no,dispersal,1,1,col,light,monoculture,245
+no,dispersal,1,1,col,light,polyculture,5
+no,dispersal,1,1,eug,dark,monoculture,1090
+no,dispersal,1,1,eug,dark,polyculture,25
+no,dispersal,1,1,eug,light,monoculture,4176
+no,dispersal,1,1,eug,light,polyculture,34
+no,dispersal,1,1,eup,dark,monoculture,29
+no,dispersal,1,1,eup,dark,polyculture,0
+no,dispersal,1,1,eup,light,monoculture,72
+no,dispersal,1,1,eup,light,polyculture,2
+no,dispersal,1,1,pau,dark,monoculture,47
+no,dispersal,1,1,pau,dark,polyculture,3
+no,dispersal,1,1,pau,light,monoculture,108
+no,dispersal,1,1,pau,light,polyculture,0
+no,dispersal,1,1,rot,dark,monoculture,207
+no,dispersal,1,1,rot,dark,polyculture,13
+no,dispersal,1,1,rot,light,monoculture,173
+no,dispersal,1,1,rot,light,polyculture,3
+no,dispersal,1,1,spi,dark,monoculture,63
+no,dispersal,1,1,spi,dark,polyculture,3
+no,dispersal,1,1,spi,light,monoculture,18
+no,dispersal,1,1,spi,light,polyculture,1
+no,dispersal,1,1,tet,dark,monoculture,194
+no,dispersal,1,1,tet,dark,polyculture,33
+no,dispersal,1,1,tet,light,monoculture,99
+no,dispersal,1,1,tet,light,polyculture,28
+no,dispersal,1,2,col,dark,monoculture,339
+no,dispersal,1,2,col,dark,polyculture,24
+no,dispersal,1,2,col,light,monoculture,65
+no,dispersal,1,2,col,light,polyculture,66
+no,dispersal,1,2,eug,dark,monoculture,567
+no,dispersal,1,2,eug,dark,polyculture,20
+no,dispersal,1,2,eug,light,monoculture,3135
+no,dispersal,1,2,eug,light,polyculture,38
+no,dispersal,1,2,eup,dark,monoculture,47
+no,dispersal,1,2,eup,dark,polyculture,7
+no,dispersal,1,2,eup,light,monoculture,222
+no,dispersal,1,2,eup,light,polyculture,4
+no,dispersal,1,2,pau,dark,monoculture,89
+no,dispersal,1,2,pau,dark,polyculture,5
+no,dispersal,1,2,pau,light,monoculture,66
+no,dispersal,1,2,pau,light,polyculture,39
+no,dispersal,1,2,rot,dark,monoculture,108
+no,dispersal,1,2,rot,dark,polyculture,6
+no,dispersal,1,2,rot,light,monoculture,150
+no,dispersal,1,2,rot,light,polyculture,11
+no,dispersal,1,2,spi,dark,monoculture,42
+no,dispersal,1,2,spi,dark,polyculture,1
+no,dispersal,1,2,spi,light,monoculture,19
+no,dispersal,1,2,spi,light,polyculture,1
+no,dispersal,1,2,tet,dark,monoculture,401
+no,dispersal,1,2,tet,dark,polyculture,4
+no,dispersal,1,2,tet,light,monoculture,101
+no,dispersal,1,2,tet,light,polyculture,11
+no,dispersal,1,3,col,dark,monoculture,142
+no,dispersal,1,3,col,dark,polyculture,71
+no,dispersal,1,3,col,light,monoculture,71
+no,dispersal,1,3,col,light,polyculture,20
+no,dispersal,1,3,eug,dark,monoculture,124
+no,dispersal,1,3,eug,dark,polyculture,9
+no,dispersal,1,3,eug,light,monoculture,870
+no,dispersal,1,3,eug,light,polyculture,40
+no,dispersal,1,3,eup,dark,monoculture,63
+no,dispersal,1,3,eup,dark,polyculture,27
+no,dispersal,1,3,eup,light,monoculture,89
+no,dispersal,1,3,eup,light,polyculture,2
+no,dispersal,1,3,pau,dark,monoculture,33
+no,dispersal,1,3,pau,dark,polyculture,8
+no,dispersal,1,3,pau,light,monoculture,2
+no,dispersal,1,3,pau,light,polyculture,4
+no,dispersal,1,3,rot,dark,monoculture,72
+no,dispersal,1,3,rot,dark,polyculture,1
+no,dispersal,1,3,rot,light,monoculture,669
+no,dispersal,1,3,rot,light,polyculture,0
+no,dispersal,1,3,spi,dark,monoculture,32
+no,dispersal,1,3,spi,dark,polyculture,0
+no,dispersal,1,3,spi,light,monoculture,14
+no,dispersal,1,3,spi,light,polyculture,0
+no,dispersal,1,3,tet,dark,monoculture,109
+no,dispersal,1,3,tet,dark,polyculture,0
+no,dispersal,1,3,tet,light,monoculture,244
+no,dispersal,1,3,tet,light,polyculture,1
+no,dispersal,1,4,col,dark,monoculture,234
+no,dispersal,1,4,col,dark,polyculture,84
+no,dispersal,1,4,col,light,monoculture,54
+no,dispersal,1,4,col,light,polyculture,30
+no,dispersal,1,4,eug,dark,monoculture,475
+no,dispersal,1,4,eug,dark,polyculture,0
+no,dispersal,1,4,eug,light,monoculture,298
+no,dispersal,1,4,eug,light,polyculture,79
+no,dispersal,1,4,eup,dark,monoculture,51
+no,dispersal,1,4,eup,dark,polyculture,13
+no,dispersal,1,4,eup,light,monoculture,40
+no,dispersal,1,4,eup,light,polyculture,1
+no,dispersal,1,4,pau,dark,monoculture,4
+no,dispersal,1,4,pau,dark,polyculture,11
+no,dispersal,1,4,pau,light,monoculture,5
+no,dispersal,1,4,pau,light,polyculture,0
+no,dispersal,1,4,rot,dark,monoculture,103
+no,dispersal,1,4,rot,dark,polyculture,0
+no,dispersal,1,4,rot,light,monoculture,100
+no,dispersal,1,4,rot,light,polyculture,5
+no,dispersal,1,4,spi,dark,monoculture,22
+no,dispersal,1,4,spi,dark,polyculture,0
+no,dispersal,1,4,spi,light,monoculture,5
+no,dispersal,1,4,spi,light,polyculture,0
+no,dispersal,1,4,tet,dark,monoculture,300
+no,dispersal,1,4,tet,dark,polyculture,6
+no,dispersal,1,4,tet,light,monoculture,32
+no,dispersal,1,4,tet,light,polyculture,2
+no,dispersal,2,1,col,dark,monoculture,234
+no,dispersal,2,1,col,dark,polyculture,49
+no,dispersal,2,1,col,light,monoculture,200
+no,dispersal,2,1,col,light,polyculture,19
+no,dispersal,2,1,eug,dark,monoculture,162
+no,dispersal,2,1,eug,dark,polyculture,21
+no,dispersal,2,1,eug,light,monoculture,6159
+no,dispersal,2,1,eug,light,polyculture,167
+no,dispersal,2,1,eup,dark,monoculture,78
+no,dispersal,2,1,eup,dark,polyculture,15
+no,dispersal,2,1,eup,light,monoculture,19
+no,dispersal,2,1,eup,light,polyculture,0
+no,dispersal,2,1,pau,dark,monoculture,69
+no,dispersal,2,1,pau,dark,polyculture,2
+no,dispersal,2,1,pau,light,monoculture,11
+no,dispersal,2,1,pau,light,polyculture,5
+no,dispersal,2,1,rot,dark,monoculture,488
+no,dispersal,2,1,rot,dark,polyculture,5
+no,dispersal,2,1,rot,light,monoculture,114
+no,dispersal,2,1,rot,light,polyculture,12
+no,dispersal,2,1,spi,dark,monoculture,50
+no,dispersal,2,1,spi,dark,polyculture,1
+no,dispersal,2,1,spi,light,monoculture,3
+no,dispersal,2,1,spi,light,polyculture,0
+no,dispersal,2,1,tet,dark,monoculture,134
+no,dispersal,2,1,tet,dark,polyculture,25
+no,dispersal,2,1,tet,light,monoculture,54
+no,dispersal,2,1,tet,light,polyculture,52
+no,dispersal,2,2,col,dark,monoculture,357
+no,dispersal,2,2,col,dark,polyculture,43
+no,dispersal,2,2,col,light,monoculture,31
+no,dispersal,2,2,col,light,polyculture,53
+no,dispersal,2,2,eug,dark,monoculture,397
+no,dispersal,2,2,eug,dark,polyculture,4
+no,dispersal,2,2,eug,light,monoculture,5586
+no,dispersal,2,2,eug,light,polyculture,27
+no,dispersal,2,2,eup,dark,monoculture,62
+no,dispersal,2,2,eup,dark,polyculture,13
+no,dispersal,2,2,eup,light,monoculture,66
+no,dispersal,2,2,eup,light,polyculture,5
+no,dispersal,2,2,pau,dark,monoculture,78
+no,dispersal,2,2,pau,dark,polyculture,4
+no,dispersal,2,2,pau,light,monoculture,6
+no,dispersal,2,2,pau,light,polyculture,13
+no,dispersal,2,2,rot,dark,monoculture,156
+no,dispersal,2,2,rot,dark,polyculture,1
+no,dispersal,2,2,rot,light,monoculture,129
+no,dispersal,2,2,rot,light,polyculture,14
+no,dispersal,2,2,spi,dark,monoculture,83
+no,dispersal,2,2,spi,dark,polyculture,0
+no,dispersal,2,2,spi,light,monoculture,1
+no,dispersal,2,2,spi,light,polyculture,1
+no,dispersal,2,2,tet,dark,monoculture,314
+no,dispersal,2,2,tet,dark,polyculture,7
+no,dispersal,2,2,tet,light,monoculture,200
+no,dispersal,2,2,tet,light,polyculture,13
+no,dispersal,2,3,col,dark,monoculture,76
+no,dispersal,2,3,col,dark,polyculture,56
+no,dispersal,2,3,col,light,monoculture,26
+no,dispersal,2,3,col,light,polyculture,35
+no,dispersal,2,3,eug,dark,monoculture,296
+no,dispersal,2,3,eug,dark,polyculture,18
+no,dispersal,2,3,eug,light,monoculture,3443
+no,dispersal,2,3,eug,light,polyculture,57
+no,dispersal,2,3,eup,dark,monoculture,59
+no,dispersal,2,3,eup,dark,polyculture,4
+no,dispersal,2,3,eup,light,monoculture,91
+no,dispersal,2,3,eup,light,polyculture,0
+no,dispersal,2,3,pau,dark,monoculture,26
+no,dispersal,2,3,pau,dark,polyculture,2
+no,dispersal,2,3,pau,light,monoculture,32
+no,dispersal,2,3,pau,light,polyculture,0
+no,dispersal,2,3,rot,dark,monoculture,13
+no,dispersal,2,3,rot,dark,polyculture,4
+no,dispersal,2,3,rot,light,monoculture,226
+no,dispersal,2,3,rot,light,polyculture,1
+no,dispersal,2,3,spi,dark,monoculture,24
+no,dispersal,2,3,spi,dark,polyculture,2
+no,dispersal,2,3,spi,light,monoculture,19
+no,dispersal,2,3,spi,light,polyculture,0
+no,dispersal,2,3,tet,dark,monoculture,115
+no,dispersal,2,3,tet,dark,polyculture,9
+no,dispersal,2,3,tet,light,monoculture,157
+no,dispersal,2,3,tet,light,polyculture,1
+no,dispersal,2,4,col,dark,monoculture,358
+no,dispersal,2,4,col,dark,polyculture,41
+no,dispersal,2,4,col,light,monoculture,6
+no,dispersal,2,4,col,light,polyculture,17
+no,dispersal,2,4,eug,dark,monoculture,197
+no,dispersal,2,4,eug,dark,polyculture,0
+no,dispersal,2,4,eug,light,monoculture,4027
+no,dispersal,2,4,eug,light,polyculture,80
+no,dispersal,2,4,eup,dark,monoculture,45
+no,dispersal,2,4,eup,dark,polyculture,2
+no,dispersal,2,4,eup,light,monoculture,76
+no,dispersal,2,4,eup,light,polyculture,0
+no,dispersal,2,4,pau,dark,monoculture,6
+no,dispersal,2,4,pau,dark,polyculture,2
+no,dispersal,2,4,pau,light,monoculture,4
+no,dispersal,2,4,pau,light,polyculture,0
+no,dispersal,2,4,rot,dark,monoculture,92
+no,dispersal,2,4,rot,dark,polyculture,0
+no,dispersal,2,4,rot,light,monoculture,83
+no,dispersal,2,4,rot,light,polyculture,3
+no,dispersal,2,4,spi,dark,monoculture,90
+no,dispersal,2,4,spi,dark,polyculture,1
+no,dispersal,2,4,spi,light,monoculture,17
+no,dispersal,2,4,spi,light,polyculture,0
+no,dispersal,2,4,tet,dark,monoculture,491
+no,dispersal,2,4,tet,dark,polyculture,9
+no,dispersal,2,4,tet,light,monoculture,18
+no,dispersal,2,4,tet,light,polyculture,0
+no,dispersal,3,1,col,dark,monoculture,3
+no,dispersal,3,1,col,dark,polyculture,33
+no,dispersal,3,1,col,light,monoculture,69
+no,dispersal,3,1,col,light,polyculture,49
+no,dispersal,3,1,eug,dark,monoculture,117
+no,dispersal,3,1,eug,dark,polyculture,9
+no,dispersal,3,1,eug,light,monoculture,6281
+no,dispersal,3,1,eug,light,polyculture,232
+no,dispersal,3,1,eup,dark,monoculture,35
+no,dispersal,3,1,eup,dark,polyculture,0
+no,dispersal,3,1,eup,light,monoculture,36
+no,dispersal,3,1,eup,light,polyculture,0
+no,dispersal,3,1,pau,dark,monoculture,119
+no,dispersal,3,1,pau,dark,polyculture,11
+no,dispersal,3,1,pau,light,monoculture,18
+no,dispersal,3,1,pau,light,polyculture,1
+no,dispersal,3,1,rot,dark,monoculture,163
+no,dispersal,3,1,rot,dark,polyculture,43
+no,dispersal,3,1,rot,light,monoculture,168
+no,dispersal,3,1,rot,light,polyculture,60
+no,dispersal,3,1,spi,dark,monoculture,8
+no,dispersal,3,1,spi,dark,polyculture,8
+no,dispersal,3,1,spi,light,monoculture,40
+no,dispersal,3,1,spi,light,polyculture,8
+no,dispersal,3,1,tet,dark,monoculture,167
+no,dispersal,3,1,tet,dark,polyculture,39
+no,dispersal,3,1,tet,light,monoculture,573
+no,dispersal,3,1,tet,light,polyculture,77
+no,dispersal,3,2,col,dark,monoculture,68
+no,dispersal,3,2,col,dark,polyculture,78
+no,dispersal,3,2,col,light,monoculture,21
+no,dispersal,3,2,col,light,polyculture,56
+no,dispersal,3,2,eug,dark,monoculture,196
+no,dispersal,3,2,eug,dark,polyculture,5
+no,dispersal,3,2,eug,light,monoculture,3054
+no,dispersal,3,2,eug,light,polyculture,36
+no,dispersal,3,2,eup,dark,monoculture,23
+no,dispersal,3,2,eup,dark,polyculture,1
+no,dispersal,3,2,eup,light,monoculture,121
+no,dispersal,3,2,eup,light,polyculture,8
+no,dispersal,3,2,pau,dark,monoculture,174
+no,dispersal,3,2,pau,dark,polyculture,0
+no,dispersal,3,2,pau,light,monoculture,22
+no,dispersal,3,2,pau,light,polyculture,41
+no,dispersal,3,2,rot,dark,monoculture,40
+no,dispersal,3,2,rot,dark,polyculture,4
+no,dispersal,3,2,rot,light,monoculture,14
+no,dispersal,3,2,rot,light,polyculture,0
+no,dispersal,3,2,spi,dark,monoculture,43
+no,dispersal,3,2,spi,dark,polyculture,0
+no,dispersal,3,2,spi,light,monoculture,39
+no,dispersal,3,2,spi,light,polyculture,3
+no,dispersal,3,2,tet,dark,monoculture,187
+no,dispersal,3,2,tet,dark,polyculture,1
+no,dispersal,3,2,tet,light,monoculture,102
+no,dispersal,3,2,tet,light,polyculture,13
+no,dispersal,3,3,col,dark,monoculture,141
+no,dispersal,3,3,col,dark,polyculture,51
+no,dispersal,3,3,col,light,monoculture,73
+no,dispersal,3,3,col,light,polyculture,22
+no,dispersal,3,3,eug,dark,monoculture,71
+no,dispersal,3,3,eug,dark,polyculture,18
+no,dispersal,3,3,eug,light,monoculture,10802
+no,dispersal,3,3,eug,light,polyculture,15
+no,dispersal,3,3,eup,dark,monoculture,49
+no,dispersal,3,3,eup,dark,polyculture,10
+no,dispersal,3,3,eup,light,monoculture,260
+no,dispersal,3,3,eup,light,polyculture,0
+no,dispersal,3,3,pau,dark,monoculture,12
+no,dispersal,3,3,pau,dark,polyculture,10
+no,dispersal,3,3,pau,light,monoculture,6
+no,dispersal,3,3,pau,light,polyculture,2
+no,dispersal,3,3,rot,dark,monoculture,22
+no,dispersal,3,3,rot,dark,polyculture,0
+no,dispersal,3,3,rot,light,monoculture,102
+no,dispersal,3,3,rot,light,polyculture,0
+no,dispersal,3,3,spi,dark,monoculture,60
+no,dispersal,3,3,spi,dark,polyculture,1
+no,dispersal,3,3,spi,light,monoculture,22
+no,dispersal,3,3,spi,light,polyculture,1
+no,dispersal,3,3,tet,dark,monoculture,102
+no,dispersal,3,3,tet,dark,polyculture,7
+no,dispersal,3,3,tet,light,monoculture,44
+no,dispersal,3,3,tet,light,polyculture,0
+no,dispersal,3,4,col,dark,monoculture,126
+no,dispersal,3,4,col,dark,polyculture,44
+no,dispersal,3,4,col,light,monoculture,68
+no,dispersal,3,4,col,light,polyculture,34
+no,dispersal,3,4,eug,dark,monoculture,352
+no,dispersal,3,4,eug,dark,polyculture,0
+no,dispersal,3,4,eug,light,monoculture,14489
+no,dispersal,3,4,eug,light,polyculture,125
+no,dispersal,3,4,eup,dark,monoculture,49
+no,dispersal,3,4,eup,dark,polyculture,15
+no,dispersal,3,4,eup,light,monoculture,114
+no,dispersal,3,4,eup,light,polyculture,2
+no,dispersal,3,4,pau,dark,monoculture,24
+no,dispersal,3,4,pau,dark,polyculture,0
+no,dispersal,3,4,pau,light,monoculture,18
+no,dispersal,3,4,pau,light,polyculture,1
+no,dispersal,3,4,rot,dark,monoculture,139
+no,dispersal,3,4,rot,dark,polyculture,1
+no,dispersal,3,4,rot,light,monoculture,178
+no,dispersal,3,4,rot,light,polyculture,4
+no,dispersal,3,4,spi,dark,monoculture,70
+no,dispersal,3,4,spi,dark,polyculture,0
+no,dispersal,3,4,spi,light,monoculture,27
+no,dispersal,3,4,spi,light,polyculture,0
+no,dispersal,3,4,tet,dark,monoculture,307
+no,dispersal,3,4,tet,dark,polyculture,6
+no,dispersal,3,4,tet,light,monoculture,120
+no,dispersal,3,4,tet,light,polyculture,6
+no,dispersal,4,1,col,dark,polyculture,68
+no,dispersal,4,1,col,light,polyculture,14
+no,dispersal,4,1,eug,dark,polyculture,43
+no,dispersal,4,1,eug,light,polyculture,106
+no,dispersal,4,1,eup,dark,polyculture,1
+no,dispersal,4,1,eup,light,polyculture,1
+no,dispersal,4,1,pau,dark,polyculture,4
+no,dispersal,4,1,pau,light,polyculture,6
+no,dispersal,4,1,rot,dark,polyculture,37
+no,dispersal,4,1,rot,light,polyculture,15
+no,dispersal,4,1,spi,dark,polyculture,6
+no,dispersal,4,1,spi,light,polyculture,3
+no,dispersal,4,1,tet,dark,polyculture,28
+no,dispersal,4,1,tet,light,polyculture,65
+no,dispersal,4,2,col,dark,polyculture,116
+no,dispersal,4,2,col,light,polyculture,43
+no,dispersal,4,2,eug,dark,polyculture,22
+no,dispersal,4,2,eug,light,polyculture,61
+no,dispersal,4,2,eup,dark,polyculture,44
+no,dispersal,4,2,eup,light,polyculture,4
+no,dispersal,4,2,pau,dark,polyculture,25
+no,dispersal,4,2,pau,light,polyculture,26
+no,dispersal,4,2,rot,dark,polyculture,6
+no,dispersal,4,2,rot,light,polyculture,10
+no,dispersal,4,2,spi,dark,polyculture,1
+no,dispersal,4,2,spi,light,polyculture,2
+no,dispersal,4,2,tet,dark,polyculture,5
+no,dispersal,4,2,tet,light,polyculture,10
+no,dispersal,4,3,col,dark,polyculture,22
+no,dispersal,4,3,col,light,polyculture,45
+no,dispersal,4,3,eug,dark,polyculture,30
+no,dispersal,4,3,eug,light,polyculture,112
+no,dispersal,4,3,eup,dark,polyculture,11
+no,dispersal,4,3,eup,light,polyculture,0
+no,dispersal,4,3,pau,dark,polyculture,0
+no,dispersal,4,3,pau,light,polyculture,5
+no,dispersal,4,3,rot,dark,polyculture,2
+no,dispersal,4,3,rot,light,polyculture,22
+no,dispersal,4,3,spi,dark,polyculture,4
+no,dispersal,4,3,spi,light,polyculture,1
+no,dispersal,4,3,tet,dark,polyculture,3
+no,dispersal,4,3,tet,light,polyculture,12
+no,dispersal,4,4,col,dark,polyculture,31
+no,dispersal,4,4,col,light,polyculture,112
+no,dispersal,4,4,eug,dark,polyculture,1
+no,dispersal,4,4,eug,light,polyculture,668
+no,dispersal,4,4,eup,dark,polyculture,13
+no,dispersal,4,4,eup,light,polyculture,13
+no,dispersal,4,4,pau,dark,polyculture,0
+no,dispersal,4,4,pau,light,polyculture,1
+no,dispersal,4,4,rot,dark,polyculture,0
+no,dispersal,4,4,rot,light,polyculture,14
+no,dispersal,4,4,spi,dark,polyculture,0
+no,dispersal,4,4,spi,light,polyculture,1
+no,dispersal,4,4,tet,dark,polyculture,6
+no,dispersal,4,4,tet,light,polyculture,9
+no,dispersal,5,1,col,dark,polyculture,85
+no,dispersal,5,1,col,light,polyculture,25
+no,dispersal,5,1,eug,dark,polyculture,7
+no,dispersal,5,1,eug,light,polyculture,125
+no,dispersal,5,1,eup,dark,polyculture,3
+no,dispersal,5,1,eup,light,polyculture,2
+no,dispersal,5,1,pau,dark,polyculture,22
+no,dispersal,5,1,pau,light,polyculture,2
+no,dispersal,5,1,rot,dark,polyculture,27
+no,dispersal,5,1,rot,light,polyculture,1
+no,dispersal,5,1,spi,dark,polyculture,8
+no,dispersal,5,1,spi,light,polyculture,0
+no,dispersal,5,1,tet,dark,polyculture,15
+no,dispersal,5,1,tet,light,polyculture,39
+no,dispersal,5,2,col,dark,polyculture,70
+no,dispersal,5,2,col,light,polyculture,36
+no,dispersal,5,2,eug,dark,polyculture,7
+no,dispersal,5,2,eug,light,polyculture,28
+no,dispersal,5,2,eup,dark,polyculture,12
+no,dispersal,5,2,eup,light,polyculture,1
+no,dispersal,5,2,pau,dark,polyculture,23
+no,dispersal,5,2,pau,light,polyculture,16
+no,dispersal,5,2,rot,dark,polyculture,6
+no,dispersal,5,2,rot,light,polyculture,4
+no,dispersal,5,2,spi,dark,polyculture,3
+no,dispersal,5,2,spi,light,polyculture,3
+no,dispersal,5,2,tet,dark,polyculture,4
+no,dispersal,5,2,tet,light,polyculture,3
+no,dispersal,5,3,col,dark,polyculture,50
+no,dispersal,5,3,col,light,polyculture,13
+no,dispersal,5,3,eug,dark,polyculture,32
+no,dispersal,5,3,eug,light,polyculture,15
+no,dispersal,5,3,eup,dark,polyculture,22
+no,dispersal,5,3,eup,light,polyculture,0
+no,dispersal,5,3,pau,dark,polyculture,8
+no,dispersal,5,3,pau,light,polyculture,8
+no,dispersal,5,3,rot,dark,polyculture,3
+no,dispersal,5,3,rot,light,polyculture,2
+no,dispersal,5,3,spi,dark,polyculture,0
+no,dispersal,5,3,spi,light,polyculture,0
+no,dispersal,5,3,tet,dark,polyculture,4
+no,dispersal,5,3,tet,light,polyculture,3
+no,dispersal,5,4,col,dark,polyculture,21
+no,dispersal,5,4,col,light,polyculture,21
+no,dispersal,5,4,eug,dark,polyculture,3
+no,dispersal,5,4,eug,light,polyculture,10
+no,dispersal,5,4,eup,dark,polyculture,16
+no,dispersal,5,4,eup,light,polyculture,0
+no,dispersal,5,4,pau,dark,polyculture,8
+no,dispersal,5,4,pau,light,polyculture,0
+no,dispersal,5,4,rot,dark,polyculture,0
+no,dispersal,5,4,rot,light,polyculture,1
+no,dispersal,5,4,spi,dark,polyculture,1
+no,dispersal,5,4,spi,light,polyculture,0
+no,dispersal,5,4,tet,dark,polyculture,5
+no,dispersal,5,4,tet,light,polyculture,0
+no,dispersal,6,1,col,dark,polyculture,75
+no,dispersal,6,1,col,light,polyculture,34
+no,dispersal,6,1,eug,dark,polyculture,28
+no,dispersal,6,1,eug,light,polyculture,256
+no,dispersal,6,1,eup,dark,polyculture,5
+no,dispersal,6,1,eup,light,polyculture,0
+no,dispersal,6,1,pau,dark,polyculture,27
+no,dispersal,6,1,pau,light,polyculture,3
+no,dispersal,6,1,rot,dark,polyculture,41
+no,dispersal,6,1,rot,light,polyculture,12
+no,dispersal,6,1,spi,dark,polyculture,17
+no,dispersal,6,1,spi,light,polyculture,3
+no,dispersal,6,1,tet,dark,polyculture,62
+no,dispersal,6,1,tet,light,polyculture,89
+no,dispersal,6,2,col,dark,polyculture,40
+no,dispersal,6,2,col,light,polyculture,19
+no,dispersal,6,2,eug,dark,polyculture,5
+no,dispersal,6,2,eug,light,polyculture,6
+no,dispersal,6,2,eup,dark,polyculture,8
+no,dispersal,6,2,eup,light,polyculture,5
+no,dispersal,6,2,pau,dark,polyculture,28
+no,dispersal,6,2,pau,light,polyculture,8
+no,dispersal,6,2,rot,dark,polyculture,3
+no,dispersal,6,2,rot,light,polyculture,0
+no,dispersal,6,2,spi,dark,polyculture,1
+no,dispersal,6,2,spi,light,polyculture,0
+no,dispersal,6,2,tet,dark,polyculture,0
+no,dispersal,6,2,tet,light,polyculture,2
+no,dispersal,6,3,col,dark,polyculture,34
+no,dispersal,6,3,col,light,polyculture,5
+no,dispersal,6,3,eug,dark,polyculture,4
+no,dispersal,6,3,eug,light,polyculture,2
+no,dispersal,6,3,eup,dark,polyculture,6
+no,dispersal,6,3,eup,light,polyculture,0
+no,dispersal,6,3,pau,dark,polyculture,1
+no,dispersal,6,3,pau,light,polyculture,1
+no,dispersal,6,3,rot,dark,polyculture,0
+no,dispersal,6,3,rot,light,polyculture,3
+no,dispersal,6,3,spi,dark,polyculture,0
+no,dispersal,6,3,spi,light,polyculture,0
+no,dispersal,6,3,tet,dark,polyculture,1
+no,dispersal,6,3,tet,light,polyculture,0
+no,dispersal,6,4,col,dark,polyculture,58
+no,dispersal,6,4,col,light,polyculture,61
+no,dispersal,6,4,eug,dark,polyculture,2
+no,dispersal,6,4,eug,light,polyculture,59
+no,dispersal,6,4,eup,dark,polyculture,16
+no,dispersal,6,4,eup,light,polyculture,0
+no,dispersal,6,4,pau,dark,polyculture,3
+no,dispersal,6,4,pau,light,polyculture,7
+no,dispersal,6,4,rot,dark,polyculture,0
+no,dispersal,6,4,rot,light,polyculture,1
+no,dispersal,6,4,spi,dark,polyculture,0
+no,dispersal,6,4,spi,light,polyculture,0
+no,dispersal,6,4,tet,dark,polyculture,7
+no,dispersal,6,4,tet,light,polyculture,3
+yes,no dispersal,1,1,col,dark,monoculture,131
+yes,no dispersal,1,1,col,dark,polyculture,72
+yes,no dispersal,1,1,col,light,monoculture,1164
+yes,no dispersal,1,1,col,light,polyculture,37
+yes,no dispersal,1,1,eug,dark,monoculture,357
+yes,no dispersal,1,1,eug,dark,polyculture,36
+yes,no dispersal,1,1,eug,light,monoculture,4266
+yes,no dispersal,1,1,eug,light,polyculture,103
+yes,no dispersal,1,1,eup,dark,monoculture,21
+yes,no dispersal,1,1,eup,dark,polyculture,3
+yes,no dispersal,1,1,eup,light,monoculture,91
+yes,no dispersal,1,1,eup,light,polyculture,13
+yes,no dispersal,1,1,pau,dark,monoculture,48
+yes,no dispersal,1,1,pau,dark,polyculture,10
+yes,no dispersal,1,1,pau,light,monoculture,43
+yes,no dispersal,1,1,pau,light,polyculture,20
+yes,no dispersal,1,1,rot,dark,monoculture,99
+yes,no dispersal,1,1,rot,dark,polyculture,44
+yes,no dispersal,1,1,rot,light,monoculture,160
+yes,no dispersal,1,1,rot,light,polyculture,22
+yes,no dispersal,1,1,spi,dark,monoculture,20
+yes,no dispersal,1,1,spi,dark,polyculture,13
+yes,no dispersal,1,1,spi,light,monoculture,89
+yes,no dispersal,1,1,spi,light,polyculture,0
+yes,no dispersal,1,1,tet,dark,monoculture,105
+yes,no dispersal,1,1,tet,dark,polyculture,39
+yes,no dispersal,1,1,tet,light,monoculture,219
+yes,no dispersal,1,1,tet,light,polyculture,42
+yes,no dispersal,1,2,col,dark,monoculture,48
+yes,no dispersal,1,2,col,dark,polyculture,37
+yes,no dispersal,1,2,col,light,monoculture,46
+yes,no dispersal,1,2,col,light,polyculture,60
+yes,no dispersal,1,2,eug,dark,monoculture,151
+yes,no dispersal,1,2,eug,dark,polyculture,8
+yes,no dispersal,1,2,eug,light,monoculture,6658
+yes,no dispersal,1,2,eug,light,polyculture,77
+yes,no dispersal,1,2,eup,dark,monoculture,194
+yes,no dispersal,1,2,eup,dark,polyculture,2
+yes,no dispersal,1,2,eup,light,monoculture,83
+yes,no dispersal,1,2,eup,light,polyculture,7
+yes,no dispersal,1,2,pau,dark,monoculture,104
+yes,no dispersal,1,2,pau,dark,polyculture,1
+yes,no dispersal,1,2,pau,light,monoculture,56
+yes,no dispersal,1,2,pau,light,polyculture,26
+yes,no dispersal,1,2,rot,dark,monoculture,250
+yes,no dispersal,1,2,rot,dark,polyculture,17
+yes,no dispersal,1,2,rot,light,monoculture,452
+yes,no dispersal,1,2,rot,light,polyculture,3
+yes,no dispersal,1,2,spi,dark,monoculture,37
+yes,no dispersal,1,2,spi,dark,polyculture,1
+yes,no dispersal,1,2,spi,light,monoculture,74
+yes,no dispersal,1,2,spi,light,polyculture,3
+yes,no dispersal,1,2,tet,dark,monoculture,252
+yes,no dispersal,1,2,tet,dark,polyculture,0
+yes,no dispersal,1,2,tet,light,monoculture,744
+yes,no dispersal,1,2,tet,light,polyculture,8
+yes,no dispersal,1,3,col,dark,monoculture,58
+yes,no dispersal,1,3,col,dark,polyculture,76
+yes,no dispersal,1,3,col,light,monoculture,102
+yes,no dispersal,1,3,col,light,polyculture,116
+yes,no dispersal,1,3,eug,dark,monoculture,7459
+yes,no dispersal,1,3,eug,dark,polyculture,34
+yes,no dispersal,1,3,eug,light,monoculture,1629
+yes,no dispersal,1,3,eug,light,polyculture,36
+yes,no dispersal,1,3,eup,dark,monoculture,86
+yes,no dispersal,1,3,eup,dark,polyculture,64
+yes,no dispersal,1,3,eup,light,monoculture,155
+yes,no dispersal,1,3,eup,light,polyculture,9
+yes,no dispersal,1,3,pau,dark,monoculture,56
+yes,no dispersal,1,3,pau,dark,polyculture,19
+yes,no dispersal,1,3,pau,light,monoculture,65
+yes,no dispersal,1,3,pau,light,polyculture,63
+yes,no dispersal,1,3,rot,dark,monoculture,105
+yes,no dispersal,1,3,rot,dark,polyculture,0
+yes,no dispersal,1,3,rot,light,monoculture,52
+yes,no dispersal,1,3,rot,light,polyculture,8
+yes,no dispersal,1,3,spi,dark,monoculture,15
+yes,no dispersal,1,3,spi,dark,polyculture,2
+yes,no dispersal,1,3,spi,light,monoculture,79
+yes,no dispersal,1,3,spi,light,polyculture,0
+yes,no dispersal,1,3,tet,dark,monoculture,215
+yes,no dispersal,1,3,tet,dark,polyculture,0
+yes,no dispersal,1,3,tet,light,monoculture,84
+yes,no dispersal,1,3,tet,light,polyculture,7
+yes,no dispersal,1,4,col,dark,monoculture,52
+yes,no dispersal,1,4,col,dark,polyculture,32
+yes,no dispersal,1,4,col,light,monoculture,53
+yes,no dispersal,1,4,col,light,polyculture,63
+yes,no dispersal,1,4,eug,dark,monoculture,5192
+yes,no dispersal,1,4,eug,dark,polyculture,0
+yes,no dispersal,1,4,eug,light,monoculture,1507
+yes,no dispersal,1,4,eug,light,polyculture,10
+yes,no dispersal,1,4,eup,dark,monoculture,183
+yes,no dispersal,1,4,eup,dark,polyculture,6
+yes,no dispersal,1,4,eup,light,monoculture,61
+yes,no dispersal,1,4,eup,light,polyculture,4
+yes,no dispersal,1,4,pau,dark,monoculture,7
+yes,no dispersal,1,4,pau,dark,polyculture,0
+yes,no dispersal,1,4,pau,light,monoculture,2
+yes,no dispersal,1,4,pau,light,polyculture,9
+yes,no dispersal,1,4,rot,dark,monoculture,172
+yes,no dispersal,1,4,rot,dark,polyculture,1
+yes,no dispersal,1,4,rot,light,monoculture,117
+yes,no dispersal,1,4,rot,light,polyculture,4
+yes,no dispersal,1,4,spi,dark,monoculture,34
+yes,no dispersal,1,4,spi,dark,polyculture,0
+yes,no dispersal,1,4,spi,light,monoculture,39
+yes,no dispersal,1,4,spi,light,polyculture,0
+yes,no dispersal,1,4,tet,dark,monoculture,168
+yes,no dispersal,1,4,tet,dark,polyculture,2
+yes,no dispersal,1,4,tet,light,monoculture,306
+yes,no dispersal,1,4,tet,light,polyculture,4
+yes,no dispersal,2,1,col,dark,monoculture,114
+yes,no dispersal,2,1,col,dark,polyculture,70
+yes,no dispersal,2,1,col,light,monoculture,179
+yes,no dispersal,2,1,col,light,polyculture,24
+yes,no dispersal,2,1,eug,dark,monoculture,978
+yes,no dispersal,2,1,eug,dark,polyculture,34
+yes,no dispersal,2,1,eug,light,monoculture,8097
+yes,no dispersal,2,1,eug,light,polyculture,232
+yes,no dispersal,2,1,eup,dark,monoculture,27
+yes,no dispersal,2,1,eup,dark,polyculture,0
+yes,no dispersal,2,1,eup,light,monoculture,46
+yes,no dispersal,2,1,eup,light,polyculture,1
+yes,no dispersal,2,1,pau,dark,monoculture,76
+yes,no dispersal,2,1,pau,dark,polyculture,16
+yes,no dispersal,2,1,pau,light,monoculture,75
+yes,no dispersal,2,1,pau,light,polyculture,2
+yes,no dispersal,2,1,rot,dark,monoculture,415
+yes,no dispersal,2,1,rot,dark,polyculture,57
+yes,no dispersal,2,1,rot,light,monoculture,145
+yes,no dispersal,2,1,rot,light,polyculture,8
+yes,no dispersal,2,1,spi,dark,monoculture,91
+yes,no dispersal,2,1,spi,dark,polyculture,23
+yes,no dispersal,2,1,spi,light,monoculture,7
+yes,no dispersal,2,1,spi,light,polyculture,3
+yes,no dispersal,2,1,tet,dark,monoculture,275
+yes,no dispersal,2,1,tet,dark,polyculture,49
+yes,no dispersal,2,1,tet,light,monoculture,217
+yes,no dispersal,2,1,tet,light,polyculture,108
+yes,no dispersal,2,2,col,dark,monoculture,812
+yes,no dispersal,2,2,col,dark,polyculture,102
+yes,no dispersal,2,2,col,light,monoculture,135
+yes,no dispersal,2,2,col,light,polyculture,84
+yes,no dispersal,2,2,eug,dark,monoculture,612
+yes,no dispersal,2,2,eug,dark,polyculture,13
+yes,no dispersal,2,2,eug,light,monoculture,15436
+yes,no dispersal,2,2,eug,light,polyculture,205
+yes,no dispersal,2,2,eup,dark,monoculture,29
+yes,no dispersal,2,2,eup,dark,polyculture,0
+yes,no dispersal,2,2,eup,light,monoculture,169
+yes,no dispersal,2,2,eup,light,polyculture,23
+yes,no dispersal,2,2,pau,dark,monoculture,51
+yes,no dispersal,2,2,pau,dark,polyculture,9
+yes,no dispersal,2,2,pau,light,monoculture,135
+yes,no dispersal,2,2,pau,light,polyculture,29
+yes,no dispersal,2,2,rot,dark,monoculture,285
+yes,no dispersal,2,2,rot,dark,polyculture,12
+yes,no dispersal,2,2,rot,light,monoculture,502
+yes,no dispersal,2,2,rot,light,polyculture,26
+yes,no dispersal,2,2,spi,dark,monoculture,30
+yes,no dispersal,2,2,spi,dark,polyculture,8
+yes,no dispersal,2,2,spi,light,monoculture,67
+yes,no dispersal,2,2,spi,light,polyculture,5
+yes,no dispersal,2,2,tet,dark,monoculture,131
+yes,no dispersal,2,2,tet,dark,polyculture,1
+yes,no dispersal,2,2,tet,light,monoculture,473
+yes,no dispersal,2,2,tet,light,polyculture,25
+yes,no dispersal,2,3,col,dark,monoculture,69
+yes,no dispersal,2,3,col,dark,polyculture,5
+yes,no dispersal,2,3,col,light,monoculture,16
+yes,no dispersal,2,3,col,light,polyculture,45
+yes,no dispersal,2,3,eug,dark,monoculture,24094
+yes,no dispersal,2,3,eug,dark,polyculture,15
+yes,no dispersal,2,3,eug,light,monoculture,214
+yes,no dispersal,2,3,eug,light,polyculture,12
+yes,no dispersal,2,3,eup,dark,monoculture,39
+yes,no dispersal,2,3,eup,dark,polyculture,17
+yes,no dispersal,2,3,eup,light,monoculture,27
+yes,no dispersal,2,3,eup,light,polyculture,0
+yes,no dispersal,2,3,pau,dark,monoculture,22
+yes,no dispersal,2,3,pau,dark,polyculture,0
+yes,no dispersal,2,3,pau,light,monoculture,26
+yes,no dispersal,2,3,pau,light,polyculture,10
+yes,no dispersal,2,3,rot,dark,monoculture,96
+yes,no dispersal,2,3,rot,dark,polyculture,4
+yes,no dispersal,2,3,rot,light,monoculture,178
+yes,no dispersal,2,3,rot,light,polyculture,1
+yes,no dispersal,2,3,spi,dark,monoculture,43
+yes,no dispersal,2,3,spi,dark,polyculture,0
+yes,no dispersal,2,3,spi,light,monoculture,28
+yes,no dispersal,2,3,spi,light,polyculture,0
+yes,no dispersal,2,3,tet,dark,monoculture,239
+yes,no dispersal,2,3,tet,dark,polyculture,0
+yes,no dispersal,2,3,tet,light,monoculture,83
+yes,no dispersal,2,3,tet,light,polyculture,1
+yes,no dispersal,2,4,col,dark,monoculture,238
+yes,no dispersal,2,4,col,dark,polyculture,21
+yes,no dispersal,2,4,col,light,monoculture,120
+yes,no dispersal,2,4,col,light,polyculture,44
+yes,no dispersal,2,4,eug,dark,monoculture,40729
+yes,no dispersal,2,4,eug,dark,polyculture,8
+yes,no dispersal,2,4,eug,light,monoculture,673
+yes,no dispersal,2,4,eug,light,polyculture,7
+yes,no dispersal,2,4,eup,dark,monoculture,69
+yes,no dispersal,2,4,eup,dark,polyculture,42
+yes,no dispersal,2,4,eup,light,monoculture,99
+yes,no dispersal,2,4,eup,light,polyculture,6
+yes,no dispersal,2,4,pau,dark,monoculture,2
+yes,no dispersal,2,4,pau,dark,polyculture,15
+yes,no dispersal,2,4,pau,light,monoculture,4
+yes,no dispersal,2,4,pau,light,polyculture,1
+yes,no dispersal,2,4,rot,dark,monoculture,190
+yes,no dispersal,2,4,rot,dark,polyculture,2
+yes,no dispersal,2,4,rot,light,monoculture,249
+yes,no dispersal,2,4,rot,light,polyculture,0
+yes,no dispersal,2,4,spi,dark,monoculture,42
+yes,no dispersal,2,4,spi,dark,polyculture,0
+yes,no dispersal,2,4,spi,light,monoculture,68
+yes,no dispersal,2,4,spi,light,polyculture,0
+yes,no dispersal,2,4,tet,dark,monoculture,179
+yes,no dispersal,2,4,tet,dark,polyculture,7
+yes,no dispersal,2,4,tet,light,monoculture,308
+yes,no dispersal,2,4,tet,light,polyculture,3
+yes,no dispersal,3,1,col,dark,monoculture,36
+yes,no dispersal,3,1,col,dark,polyculture,55
+yes,no dispersal,3,1,col,light,monoculture,146
+yes,no dispersal,3,1,col,light,polyculture,13
+yes,no dispersal,3,1,eug,dark,monoculture,280
+yes,no dispersal,3,1,eug,dark,polyculture,57
+yes,no dispersal,3,1,eug,light,monoculture,5347
+yes,no dispersal,3,1,eug,light,polyculture,163
+yes,no dispersal,3,1,eup,dark,monoculture,27
+yes,no dispersal,3,1,eup,dark,polyculture,3
+yes,no dispersal,3,1,eup,light,monoculture,69
+yes,no dispersal,3,1,eup,light,polyculture,0
+yes,no dispersal,3,1,pau,dark,monoculture,122
+yes,no dispersal,3,1,pau,dark,polyculture,15
+yes,no dispersal,3,1,pau,light,monoculture,96
+yes,no dispersal,3,1,pau,light,polyculture,0
+yes,no dispersal,3,1,rot,dark,monoculture,140
+yes,no dispersal,3,1,rot,dark,polyculture,75
+yes,no dispersal,3,1,rot,light,monoculture,87
+yes,no dispersal,3,1,rot,light,polyculture,4
+yes,no dispersal,3,1,spi,dark,monoculture,6
+yes,no dispersal,3,1,spi,dark,polyculture,26
+yes,no dispersal,3,1,spi,light,monoculture,34
+yes,no dispersal,3,1,spi,light,polyculture,0
+yes,no dispersal,3,1,tet,dark,monoculture,127
+yes,no dispersal,3,1,tet,dark,polyculture,120
+yes,no dispersal,3,1,tet,light,monoculture,290
+yes,no dispersal,3,1,tet,light,polyculture,45
+yes,no dispersal,3,2,col,dark,monoculture,118
+yes,no dispersal,3,2,col,dark,polyculture,101
+yes,no dispersal,3,2,col,light,monoculture,84
+yes,no dispersal,3,2,col,light,polyculture,17
+yes,no dispersal,3,2,eug,dark,monoculture,146
+yes,no dispersal,3,2,eug,dark,polyculture,13
+yes,no dispersal,3,2,eug,light,monoculture,4089
+yes,no dispersal,3,2,eug,light,polyculture,26
+yes,no dispersal,3,2,eup,dark,monoculture,39
+yes,no dispersal,3,2,eup,dark,polyculture,18
+yes,no dispersal,3,2,eup,light,monoculture,102
+yes,no dispersal,3,2,eup,light,polyculture,0
+yes,no dispersal,3,2,pau,dark,monoculture,74
+yes,no dispersal,3,2,pau,dark,polyculture,18
+yes,no dispersal,3,2,pau,light,monoculture,70
+yes,no dispersal,3,2,pau,light,polyculture,14
+yes,no dispersal,3,2,rot,dark,monoculture,121
+yes,no dispersal,3,2,rot,dark,polyculture,5
+yes,no dispersal,3,2,rot,light,monoculture,9
+yes,no dispersal,3,2,rot,light,polyculture,0
+yes,no dispersal,3,2,spi,dark,monoculture,22
+yes,no dispersal,3,2,spi,dark,polyculture,2
+yes,no dispersal,3,2,spi,light,monoculture,22
+yes,no dispersal,3,2,spi,light,polyculture,0
+yes,no dispersal,3,2,tet,dark,monoculture,62
+yes,no dispersal,3,2,tet,dark,polyculture,3
+yes,no dispersal,3,2,tet,light,monoculture,70
+yes,no dispersal,3,2,tet,light,polyculture,20
+yes,no dispersal,3,3,col,dark,monoculture,113
+yes,no dispersal,3,3,col,dark,polyculture,18
+yes,no dispersal,3,3,col,light,monoculture,238
+yes,no dispersal,3,3,col,light,polyculture,40
+yes,no dispersal,3,3,eug,dark,monoculture,7494
+yes,no dispersal,3,3,eug,dark,polyculture,14
+yes,no dispersal,3,3,eug,light,monoculture,2331
+yes,no dispersal,3,3,eug,light,polyculture,19
+yes,no dispersal,3,3,eup,dark,monoculture,25
+yes,no dispersal,3,3,eup,dark,polyculture,8
+yes,no dispersal,3,3,eup,light,monoculture,67
+yes,no dispersal,3,3,eup,light,polyculture,0
+yes,no dispersal,3,3,pau,dark,monoculture,42
+yes,no dispersal,3,3,pau,dark,polyculture,0
+yes,no dispersal,3,3,pau,light,monoculture,50
+yes,no dispersal,3,3,pau,light,polyculture,5
+yes,no dispersal,3,3,rot,dark,monoculture,68
+yes,no dispersal,3,3,rot,dark,polyculture,2
+yes,no dispersal,3,3,rot,light,monoculture,105
+yes,no dispersal,3,3,rot,light,polyculture,3
+yes,no dispersal,3,3,spi,dark,monoculture,30
+yes,no dispersal,3,3,spi,dark,polyculture,0
+yes,no dispersal,3,3,spi,light,monoculture,63
+yes,no dispersal,3,3,spi,light,polyculture,0
+yes,no dispersal,3,3,tet,dark,monoculture,128
+yes,no dispersal,3,3,tet,dark,polyculture,3
+yes,no dispersal,3,3,tet,light,monoculture,47
+yes,no dispersal,3,3,tet,light,polyculture,1
+yes,no dispersal,3,4,col,dark,monoculture,211
+yes,no dispersal,3,4,col,dark,polyculture,9
+yes,no dispersal,3,4,col,light,monoculture,301
+yes,no dispersal,3,4,col,light,polyculture,106
+yes,no dispersal,3,4,eug,dark,monoculture,8735
+yes,no dispersal,3,4,eug,dark,polyculture,3
+yes,no dispersal,3,4,eug,light,monoculture,701
+yes,no dispersal,3,4,eug,light,polyculture,50
+yes,no dispersal,3,4,eup,dark,monoculture,149
+yes,no dispersal,3,4,eup,dark,polyculture,61
+yes,no dispersal,3,4,eup,light,monoculture,57
+yes,no dispersal,3,4,eup,light,polyculture,4
+yes,no dispersal,3,4,pau,dark,monoculture,4
+yes,no dispersal,3,4,pau,dark,polyculture,16
+yes,no dispersal,3,4,pau,light,monoculture,3
+yes,no dispersal,3,4,pau,light,polyculture,3
+yes,no dispersal,3,4,rot,dark,monoculture,85
+yes,no dispersal,3,4,rot,dark,polyculture,1
+yes,no dispersal,3,4,rot,light,monoculture,138
+yes,no dispersal,3,4,rot,light,polyculture,2
+yes,no dispersal,3,4,spi,dark,monoculture,22
+yes,no dispersal,3,4,spi,dark,polyculture,1
+yes,no dispersal,3,4,spi,light,monoculture,37
+yes,no dispersal,3,4,spi,light,polyculture,0
+yes,no dispersal,3,4,tet,dark,monoculture,211
+yes,no dispersal,3,4,tet,dark,polyculture,2
+yes,no dispersal,3,4,tet,light,monoculture,200
+yes,no dispersal,3,4,tet,light,polyculture,0
+yes,no dispersal,4,1,col,dark,polyculture,59
+yes,no dispersal,4,1,col,light,polyculture,43
+yes,no dispersal,4,1,eug,dark,polyculture,16
+yes,no dispersal,4,1,eug,light,polyculture,123
+yes,no dispersal,4,1,eup,dark,polyculture,1
+yes,no dispersal,4,1,eup,light,polyculture,1
+yes,no dispersal,4,1,pau,dark,polyculture,1
+yes,no dispersal,4,1,pau,light,polyculture,0
+yes,no dispersal,4,1,rot,dark,polyculture,44
+yes,no dispersal,4,1,rot,light,polyculture,4
+yes,no dispersal,4,1,spi,dark,polyculture,0
+yes,no dispersal,4,1,spi,light,polyculture,13
+yes,no dispersal,4,1,tet,dark,polyculture,29
+yes,no dispersal,4,1,tet,light,polyculture,77
+yes,no dispersal,4,2,col,dark,polyculture,62
+yes,no dispersal,4,2,col,light,polyculture,76
+yes,no dispersal,4,2,eug,dark,polyculture,12
+yes,no dispersal,4,2,eug,light,polyculture,59
+yes,no dispersal,4,2,eup,dark,polyculture,13
+yes,no dispersal,4,2,eup,light,polyculture,8
+yes,no dispersal,4,2,pau,dark,polyculture,3
+yes,no dispersal,4,2,pau,light,polyculture,35
+yes,no dispersal,4,2,rot,dark,polyculture,0
+yes,no dispersal,4,2,rot,light,polyculture,13
+yes,no dispersal,4,2,spi,dark,polyculture,0
+yes,no dispersal,4,2,spi,light,polyculture,4
+yes,no dispersal,4,2,tet,dark,polyculture,4
+yes,no dispersal,4,2,tet,light,polyculture,11
+yes,no dispersal,4,3,col,dark,polyculture,44
+yes,no dispersal,4,3,col,light,polyculture,14
+yes,no dispersal,4,3,eug,dark,polyculture,16
+yes,no dispersal,4,3,eug,light,polyculture,4
+yes,no dispersal,4,3,eup,dark,polyculture,16
+yes,no dispersal,4,3,eup,light,polyculture,1
+yes,no dispersal,4,3,pau,dark,polyculture,1
+yes,no dispersal,4,3,pau,light,polyculture,4
+yes,no dispersal,4,3,rot,dark,polyculture,0
+yes,no dispersal,4,3,rot,light,polyculture,1
+yes,no dispersal,4,3,spi,dark,polyculture,0
+yes,no dispersal,4,3,spi,light,polyculture,0
+yes,no dispersal,4,3,tet,dark,polyculture,0
+yes,no dispersal,4,3,tet,light,polyculture,0
+yes,no dispersal,4,4,col,dark,polyculture,34
+yes,no dispersal,4,4,col,light,polyculture,40
+yes,no dispersal,4,4,eug,dark,polyculture,10
+yes,no dispersal,4,4,eug,light,polyculture,2
+yes,no dispersal,4,4,eup,dark,polyculture,16
+yes,no dispersal,4,4,eup,light,polyculture,1
+yes,no dispersal,4,4,pau,dark,polyculture,0
+yes,no dispersal,4,4,pau,light,polyculture,0
+yes,no dispersal,4,4,rot,dark,polyculture,2
+yes,no dispersal,4,4,rot,light,polyculture,2
+yes,no dispersal,4,4,spi,dark,polyculture,1
+yes,no dispersal,4,4,spi,light,polyculture,0
+yes,no dispersal,4,4,tet,dark,polyculture,17
+yes,no dispersal,4,4,tet,light,polyculture,0
+yes,no dispersal,5,1,col,dark,polyculture,54
+yes,no dispersal,5,1,col,light,polyculture,16
+yes,no dispersal,5,1,eug,dark,polyculture,5
+yes,no dispersal,5,1,eug,light,polyculture,224
+yes,no dispersal,5,1,eup,dark,polyculture,8
+yes,no dispersal,5,1,eup,light,polyculture,0
+yes,no dispersal,5,1,pau,dark,polyculture,4
+yes,no dispersal,5,1,pau,light,polyculture,16
+yes,no dispersal,5,1,rot,dark,polyculture,21
+yes,no dispersal,5,1,rot,light,polyculture,9
+yes,no dispersal,5,1,spi,dark,polyculture,1
+yes,no dispersal,5,1,spi,light,polyculture,0
+yes,no dispersal,5,1,tet,dark,polyculture,23
+yes,no dispersal,5,1,tet,light,polyculture,54
+yes,no dispersal,5,2,col,dark,polyculture,49
+yes,no dispersal,5,2,col,light,polyculture,12
+yes,no dispersal,5,2,eug,dark,polyculture,10
+yes,no dispersal,5,2,eug,light,polyculture,74
+yes,no dispersal,5,2,eup,dark,polyculture,4
+yes,no dispersal,5,2,eup,light,polyculture,6
+yes,no dispersal,5,2,pau,dark,polyculture,4
+yes,no dispersal,5,2,pau,light,polyculture,31
+yes,no dispersal,5,2,rot,dark,polyculture,3
+yes,no dispersal,5,2,rot,light,polyculture,11
+yes,no dispersal,5,2,spi,dark,polyculture,0
+yes,no dispersal,5,2,spi,light,polyculture,4
+yes,no dispersal,5,2,tet,dark,polyculture,2
+yes,no dispersal,5,2,tet,light,polyculture,13
+yes,no dispersal,5,3,col,dark,polyculture,20
+yes,no dispersal,5,3,col,light,polyculture,17
+yes,no dispersal,5,3,eug,dark,polyculture,17
+yes,no dispersal,5,3,eug,light,polyculture,7
+yes,no dispersal,5,3,eup,dark,polyculture,8
+yes,no dispersal,5,3,eup,light,polyculture,0
+yes,no dispersal,5,3,pau,dark,polyculture,5
+yes,no dispersal,5,3,pau,light,polyculture,18
+yes,no dispersal,5,3,rot,dark,polyculture,5
+yes,no dispersal,5,3,rot,light,polyculture,0
+yes,no dispersal,5,3,spi,dark,polyculture,1
+yes,no dispersal,5,3,spi,light,polyculture,0
+yes,no dispersal,5,3,tet,dark,polyculture,1
+yes,no dispersal,5,3,tet,light,polyculture,1
+yes,no dispersal,5,4,col,dark,polyculture,39
+yes,no dispersal,5,4,col,light,polyculture,50
+yes,no dispersal,5,4,eug,dark,polyculture,12
+yes,no dispersal,5,4,eug,light,polyculture,38
+yes,no dispersal,5,4,eup,dark,polyculture,13
+yes,no dispersal,5,4,eup,light,polyculture,4
+yes,no dispersal,5,4,pau,dark,polyculture,8
+yes,no dispersal,5,4,pau,light,polyculture,8
+yes,no dispersal,5,4,rot,dark,polyculture,2
+yes,no dispersal,5,4,rot,light,polyculture,4
+yes,no dispersal,5,4,spi,dark,polyculture,1
+yes,no dispersal,5,4,spi,light,polyculture,1
+yes,no dispersal,5,4,tet,dark,polyculture,15
+yes,no dispersal,5,4,tet,light,polyculture,3
+yes,no dispersal,6,1,col,dark,polyculture,76
+yes,no dispersal,6,1,col,light,polyculture,40
+yes,no dispersal,6,1,eug,dark,polyculture,30
+yes,no dispersal,6,1,eug,light,polyculture,304
+yes,no dispersal,6,1,eup,dark,polyculture,3
+yes,no dispersal,6,1,eup,light,polyculture,2
+yes,no dispersal,6,1,pau,dark,polyculture,15
+yes,no dispersal,6,1,pau,light,polyculture,14
+yes,no dispersal,6,1,rot,dark,polyculture,75
+yes,no dispersal,6,1,rot,light,polyculture,6
+yes,no dispersal,6,1,spi,dark,polyculture,7
+yes,no dispersal,6,1,spi,light,polyculture,0
+yes,no dispersal,6,1,tet,dark,polyculture,30
+yes,no dispersal,6,1,tet,light,polyculture,86
+yes,no dispersal,6,2,col,dark,polyculture,68
+yes,no dispersal,6,2,col,light,polyculture,14
+yes,no dispersal,6,2,eug,dark,polyculture,6
+yes,no dispersal,6,2,eug,light,polyculture,32
+yes,no dispersal,6,2,eup,dark,polyculture,6
+yes,no dispersal,6,2,eup,light,polyculture,8
+yes,no dispersal,6,2,pau,dark,polyculture,14
+yes,no dispersal,6,2,pau,light,polyculture,11
+yes,no dispersal,6,2,rot,dark,polyculture,0
+yes,no dispersal,6,2,rot,light,polyculture,1
+yes,no dispersal,6,2,spi,dark,polyculture,0
+yes,no dispersal,6,2,spi,light,polyculture,0
+yes,no dispersal,6,2,tet,dark,polyculture,0
+yes,no dispersal,6,2,tet,light,polyculture,4
+yes,no dispersal,6,3,col,dark,polyculture,17
+yes,no dispersal,6,3,col,light,polyculture,58
+yes,no dispersal,6,3,eug,dark,polyculture,16
+yes,no dispersal,6,3,eug,light,polyculture,52
+yes,no dispersal,6,3,eup,dark,polyculture,8
+yes,no dispersal,6,3,eup,light,polyculture,0
+yes,no dispersal,6,3,pau,dark,polyculture,4
+yes,no dispersal,6,3,pau,light,polyculture,2
+yes,no dispersal,6,3,rot,dark,polyculture,2
+yes,no dispersal,6,3,rot,light,polyculture,6
+yes,no dispersal,6,3,spi,dark,polyculture,0
+yes,no dispersal,6,3,spi,light,polyculture,1
+yes,no dispersal,6,3,tet,dark,polyculture,7
+yes,no dispersal,6,3,tet,light,polyculture,6
+yes,no dispersal,6,4,col,dark,polyculture,2
+yes,no dispersal,6,4,col,light,polyculture,61
+yes,no dispersal,6,4,eug,dark,polyculture,1
+yes,no dispersal,6,4,eug,light,polyculture,45
+yes,no dispersal,6,4,eup,dark,polyculture,30
+yes,no dispersal,6,4,eup,light,polyculture,1
+yes,no dispersal,6,4,pau,dark,polyculture,8
+yes,no dispersal,6,4,pau,light,polyculture,5
+yes,no dispersal,6,4,rot,dark,polyculture,0
+yes,no dispersal,6,4,rot,light,polyculture,10
+yes,no dispersal,6,4,spi,dark,polyculture,0
+yes,no dispersal,6,4,spi,light,polyculture,0
+yes,no dispersal,6,4,tet,dark,polyculture,3
+yes,no dispersal,6,4,tet,light,polyculture,12
+yes,dispersal,1,1,col,dark,monoculture,67
+yes,dispersal,1,1,col,dark,polyculture,14
+yes,dispersal,1,1,col,light,monoculture,56
+yes,dispersal,1,1,col,light,polyculture,47
+yes,dispersal,1,1,eug,dark,monoculture,540
+yes,dispersal,1,1,eug,dark,polyculture,2
+yes,dispersal,1,1,eug,light,monoculture,3098
+yes,dispersal,1,1,eug,light,polyculture,123
+yes,dispersal,1,1,eup,dark,monoculture,78
+yes,dispersal,1,1,eup,dark,polyculture,0
+yes,dispersal,1,1,eup,light,monoculture,26
+yes,dispersal,1,1,eup,light,polyculture,3
+yes,dispersal,1,1,pau,dark,monoculture,78
+yes,dispersal,1,1,pau,dark,polyculture,4
+yes,dispersal,1,1,pau,light,monoculture,72
+yes,dispersal,1,1,pau,light,polyculture,42
+yes,dispersal,1,1,rot,dark,monoculture,218
+yes,dispersal,1,1,rot,dark,polyculture,32
+yes,dispersal,1,1,rot,light,monoculture,180
+yes,dispersal,1,1,rot,light,polyculture,17
+yes,dispersal,1,1,spi,dark,monoculture,16
+yes,dispersal,1,1,spi,dark,polyculture,0
+yes,dispersal,1,1,spi,light,monoculture,52
+yes,dispersal,1,1,spi,light,polyculture,3
+yes,dispersal,1,1,tet,dark,monoculture,126
+yes,dispersal,1,1,tet,dark,polyculture,24
+yes,dispersal,1,1,tet,light,monoculture,179
+yes,dispersal,1,1,tet,light,polyculture,81
+yes,dispersal,1,2,col,dark,monoculture,92
+yes,dispersal,1,2,col,dark,polyculture,17
+yes,dispersal,1,2,col,light,monoculture,46
+yes,dispersal,1,2,col,light,polyculture,116
+yes,dispersal,1,2,eug,dark,monoculture,91
+yes,dispersal,1,2,eug,dark,polyculture,0
+yes,dispersal,1,2,eug,light,monoculture,1946
+yes,dispersal,1,2,eug,light,polyculture,85
+yes,dispersal,1,2,eup,dark,monoculture,96
+yes,dispersal,1,2,eup,dark,polyculture,12
+yes,dispersal,1,2,eup,light,monoculture,49
+yes,dispersal,1,2,eup,light,polyculture,3
+yes,dispersal,1,2,pau,dark,monoculture,83
+yes,dispersal,1,2,pau,dark,polyculture,8
+yes,dispersal,1,2,pau,light,monoculture,32
+yes,dispersal,1,2,pau,light,polyculture,32
+yes,dispersal,1,2,rot,dark,monoculture,237
+yes,dispersal,1,2,rot,dark,polyculture,1
+yes,dispersal,1,2,rot,light,monoculture,135
+yes,dispersal,1,2,rot,light,polyculture,4
+yes,dispersal,1,2,spi,dark,monoculture,32
+yes,dispersal,1,2,spi,dark,polyculture,0
+yes,dispersal,1,2,spi,light,monoculture,35
+yes,dispersal,1,2,spi,light,polyculture,1
+yes,dispersal,1,2,tet,dark,monoculture,142
+yes,dispersal,1,2,tet,dark,polyculture,2
+yes,dispersal,1,2,tet,light,monoculture,302
+yes,dispersal,1,2,tet,light,polyculture,9
+yes,dispersal,1,3,col,dark,monoculture,37
+yes,dispersal,1,3,col,dark,polyculture,26
+yes,dispersal,1,3,col,light,monoculture,51
+yes,dispersal,1,3,col,light,polyculture,42
+yes,dispersal,1,3,eug,dark,monoculture,2937
+yes,dispersal,1,3,eug,dark,polyculture,8
+yes,dispersal,1,3,eug,light,monoculture,1044
+yes,dispersal,1,3,eug,light,polyculture,21
+yes,dispersal,1,3,eup,dark,monoculture,40
+yes,dispersal,1,3,eup,dark,polyculture,21
+yes,dispersal,1,3,eup,light,monoculture,78
+yes,dispersal,1,3,eup,light,polyculture,2
+yes,dispersal,1,3,pau,dark,monoculture,54
+yes,dispersal,1,3,pau,dark,polyculture,0
+yes,dispersal,1,3,pau,light,monoculture,7
+yes,dispersal,1,3,pau,light,polyculture,27
+yes,dispersal,1,3,rot,dark,monoculture,92
+yes,dispersal,1,3,rot,dark,polyculture,9
+yes,dispersal,1,3,rot,light,monoculture,69
+yes,dispersal,1,3,rot,light,polyculture,1
+yes,dispersal,1,3,spi,dark,monoculture,40
+yes,dispersal,1,3,spi,dark,polyculture,6
+yes,dispersal,1,3,spi,light,monoculture,89
+yes,dispersal,1,3,spi,light,polyculture,0
+yes,dispersal,1,3,tet,dark,monoculture,70
+yes,dispersal,1,3,tet,dark,polyculture,2
+yes,dispersal,1,3,tet,light,monoculture,69
+yes,dispersal,1,3,tet,light,polyculture,8
+yes,dispersal,1,4,col,dark,monoculture,78
+yes,dispersal,1,4,col,dark,polyculture,22
+yes,dispersal,1,4,col,light,monoculture,227
+yes,dispersal,1,4,col,light,polyculture,36
+yes,dispersal,1,4,eug,dark,monoculture,1272
+yes,dispersal,1,4,eug,dark,polyculture,7
+yes,dispersal,1,4,eug,light,monoculture,1001
+yes,dispersal,1,4,eug,light,polyculture,40
+yes,dispersal,1,4,eup,dark,monoculture,42
+yes,dispersal,1,4,eup,dark,polyculture,23
+yes,dispersal,1,4,eup,light,monoculture,34
+yes,dispersal,1,4,eup,light,polyculture,2
+yes,dispersal,1,4,pau,dark,monoculture,1
+yes,dispersal,1,4,pau,dark,polyculture,0
+yes,dispersal,1,4,pau,light,monoculture,2
+yes,dispersal,1,4,pau,light,polyculture,2
+yes,dispersal,1,4,rot,dark,monoculture,277
+yes,dispersal,1,4,rot,dark,polyculture,0
+yes,dispersal,1,4,rot,light,monoculture,85
+yes,dispersal,1,4,rot,light,polyculture,7
+yes,dispersal,1,4,spi,dark,monoculture,17
+yes,dispersal,1,4,spi,dark,polyculture,0
+yes,dispersal,1,4,spi,light,monoculture,79
+yes,dispersal,1,4,spi,light,polyculture,0
+yes,dispersal,1,4,tet,dark,monoculture,359
+yes,dispersal,1,4,tet,dark,polyculture,6
+yes,dispersal,1,4,tet,light,monoculture,93
+yes,dispersal,1,4,tet,light,polyculture,15
+yes,dispersal,2,1,col,dark,monoculture,51
+yes,dispersal,2,1,col,dark,polyculture,57
+yes,dispersal,2,1,col,light,monoculture,27
+yes,dispersal,2,1,col,light,polyculture,57
+yes,dispersal,2,1,eug,dark,monoculture,259
+yes,dispersal,2,1,eug,dark,polyculture,19
+yes,dispersal,2,1,eug,light,monoculture,10628
+yes,dispersal,2,1,eug,light,polyculture,374
+yes,dispersal,2,1,eup,dark,monoculture,34
+yes,dispersal,2,1,eup,dark,polyculture,12
+yes,dispersal,2,1,eup,light,monoculture,141
+yes,dispersal,2,1,eup,light,polyculture,14
+yes,dispersal,2,1,pau,dark,monoculture,95
+yes,dispersal,2,1,pau,dark,polyculture,3
+yes,dispersal,2,1,pau,light,monoculture,37
+yes,dispersal,2,1,pau,light,polyculture,43
+yes,dispersal,2,1,rot,dark,monoculture,202
+yes,dispersal,2,1,rot,dark,polyculture,60
+yes,dispersal,2,1,rot,light,monoculture,22
+yes,dispersal,2,1,rot,light,polyculture,22
+yes,dispersal,2,1,spi,dark,monoculture,16
+yes,dispersal,2,1,spi,dark,polyculture,13
+yes,dispersal,2,1,spi,light,monoculture,12
+yes,dispersal,2,1,spi,light,polyculture,1
+yes,dispersal,2,1,tet,dark,monoculture,245
+yes,dispersal,2,1,tet,dark,polyculture,55
+yes,dispersal,2,1,tet,light,monoculture,56
+yes,dispersal,2,1,tet,light,polyculture,128
+yes,dispersal,2,2,col,dark,monoculture,192
+yes,dispersal,2,2,col,dark,polyculture,88
+yes,dispersal,2,2,col,light,monoculture,118
+yes,dispersal,2,2,col,light,polyculture,11
+yes,dispersal,2,2,eug,dark,monoculture,258
+yes,dispersal,2,2,eug,dark,polyculture,18
+yes,dispersal,2,2,eug,light,monoculture,11236
+yes,dispersal,2,2,eug,light,polyculture,21
+yes,dispersal,2,2,eup,dark,monoculture,70
+yes,dispersal,2,2,eup,dark,polyculture,12
+yes,dispersal,2,2,eup,light,monoculture,50
+yes,dispersal,2,2,eup,light,polyculture,3
+yes,dispersal,2,2,pau,dark,monoculture,68
+yes,dispersal,2,2,pau,dark,polyculture,31
+yes,dispersal,2,2,pau,light,monoculture,45
+yes,dispersal,2,2,pau,light,polyculture,9
+yes,dispersal,2,2,rot,dark,monoculture,135
+yes,dispersal,2,2,rot,dark,polyculture,3
+yes,dispersal,2,2,rot,light,monoculture,59
+yes,dispersal,2,2,rot,light,polyculture,13
+yes,dispersal,2,2,spi,dark,monoculture,209
+yes,dispersal,2,2,spi,dark,polyculture,0
+yes,dispersal,2,2,spi,light,monoculture,36
+yes,dispersal,2,2,spi,light,polyculture,1
+yes,dispersal,2,2,tet,dark,monoculture,133
+yes,dispersal,2,2,tet,dark,polyculture,8
+yes,dispersal,2,2,tet,light,monoculture,58
+yes,dispersal,2,2,tet,light,polyculture,12
+yes,dispersal,2,3,col,dark,monoculture,20
+yes,dispersal,2,3,col,dark,polyculture,19
+yes,dispersal,2,3,col,light,monoculture,32
+yes,dispersal,2,3,col,light,polyculture,53
+yes,dispersal,2,3,eug,dark,monoculture,15410
+yes,dispersal,2,3,eug,dark,polyculture,15
+yes,dispersal,2,3,eug,light,monoculture,2421
+yes,dispersal,2,3,eug,light,polyculture,14
+yes,dispersal,2,3,eup,dark,monoculture,56
+yes,dispersal,2,3,eup,dark,polyculture,19
+yes,dispersal,2,3,eup,light,monoculture,102
+yes,dispersal,2,3,eup,light,polyculture,3
+yes,dispersal,2,3,pau,dark,monoculture,40
+yes,dispersal,2,3,pau,dark,polyculture,5
+yes,dispersal,2,3,pau,light,monoculture,9
+yes,dispersal,2,3,pau,light,polyculture,7
+yes,dispersal,2,3,rot,dark,monoculture,86
+yes,dispersal,2,3,rot,dark,polyculture,1
+yes,dispersal,2,3,rot,light,monoculture,62
+yes,dispersal,2,3,rot,light,polyculture,8
+yes,dispersal,2,3,spi,dark,monoculture,46
+yes,dispersal,2,3,spi,dark,polyculture,0
+yes,dispersal,2,3,spi,light,monoculture,81
+yes,dispersal,2,3,spi,light,polyculture,1
+yes,dispersal,2,3,tet,dark,monoculture,163
+yes,dispersal,2,3,tet,dark,polyculture,4
+yes,dispersal,2,3,tet,light,monoculture,56
+yes,dispersal,2,3,tet,light,polyculture,3
+yes,dispersal,2,4,col,dark,monoculture,122
+yes,dispersal,2,4,col,dark,polyculture,18
+yes,dispersal,2,4,col,light,monoculture,208
+yes,dispersal,2,4,col,light,polyculture,48
+yes,dispersal,2,4,eug,dark,monoculture,16184
+yes,dispersal,2,4,eug,dark,polyculture,6
+yes,dispersal,2,4,eug,light,monoculture,1025
+yes,dispersal,2,4,eug,light,polyculture,12
+yes,dispersal,2,4,eup,dark,monoculture,120
+yes,dispersal,2,4,eup,dark,polyculture,38
+yes,dispersal,2,4,eup,light,monoculture,111
+yes,dispersal,2,4,eup,light,polyculture,7
+yes,dispersal,2,4,pau,dark,monoculture,3
+yes,dispersal,2,4,pau,dark,polyculture,10
+yes,dispersal,2,4,pau,light,monoculture,4
+yes,dispersal,2,4,pau,light,polyculture,6
+yes,dispersal,2,4,rot,dark,monoculture,159
+yes,dispersal,2,4,rot,dark,polyculture,0
+yes,dispersal,2,4,rot,light,monoculture,83
+yes,dispersal,2,4,rot,light,polyculture,3
+yes,dispersal,2,4,spi,dark,monoculture,19
+yes,dispersal,2,4,spi,dark,polyculture,2
+yes,dispersal,2,4,spi,light,monoculture,36
+yes,dispersal,2,4,spi,light,polyculture,0
+yes,dispersal,2,4,tet,dark,monoculture,156
+yes,dispersal,2,4,tet,dark,polyculture,11
+yes,dispersal,2,4,tet,light,monoculture,185
+yes,dispersal,2,4,tet,light,polyculture,1
+yes,dispersal,3,1,col,dark,monoculture,12
+yes,dispersal,3,1,col,dark,polyculture,50
+yes,dispersal,3,1,col,light,monoculture,30
+yes,dispersal,3,1,col,light,polyculture,29
+yes,dispersal,3,1,eug,dark,monoculture,126
+yes,dispersal,3,1,eug,dark,polyculture,12
+yes,dispersal,3,1,eug,light,monoculture,4271
+yes,dispersal,3,1,eug,light,polyculture,240
+yes,dispersal,3,1,eup,dark,monoculture,30
+yes,dispersal,3,1,eup,dark,polyculture,8
+yes,dispersal,3,1,eup,light,monoculture,9
+yes,dispersal,3,1,eup,light,polyculture,0
+yes,dispersal,3,1,pau,dark,monoculture,183
+yes,dispersal,3,1,pau,dark,polyculture,10
+yes,dispersal,3,1,pau,light,monoculture,98
+yes,dispersal,3,1,pau,light,polyculture,9
+yes,dispersal,3,1,rot,dark,monoculture,164
+yes,dispersal,3,1,rot,dark,polyculture,27
+yes,dispersal,3,1,rot,light,monoculture,65
+yes,dispersal,3,1,rot,light,polyculture,4
+yes,dispersal,3,1,spi,dark,monoculture,51
+yes,dispersal,3,1,spi,dark,polyculture,6
+yes,dispersal,3,1,spi,light,monoculture,7
+yes,dispersal,3,1,spi,light,polyculture,0
+yes,dispersal,3,1,tet,dark,monoculture,65
+yes,dispersal,3,1,tet,dark,polyculture,26
+yes,dispersal,3,1,tet,light,monoculture,103
+yes,dispersal,3,1,tet,light,polyculture,99
+yes,dispersal,3,2,col,dark,monoculture,75
+yes,dispersal,3,2,col,dark,polyculture,45
+yes,dispersal,3,2,col,light,monoculture,40
+yes,dispersal,3,2,col,light,polyculture,21
+yes,dispersal,3,2,eug,dark,monoculture,420
+yes,dispersal,3,2,eug,dark,polyculture,10
+yes,dispersal,3,2,eug,light,monoculture,10986
+yes,dispersal,3,2,eug,light,polyculture,32
+yes,dispersal,3,2,eup,dark,monoculture,46
+yes,dispersal,3,2,eup,dark,polyculture,15
+yes,dispersal,3,2,eup,light,monoculture,93
+yes,dispersal,3,2,eup,light,polyculture,3
+yes,dispersal,3,2,pau,dark,monoculture,73
+yes,dispersal,3,2,pau,dark,polyculture,29
+yes,dispersal,3,2,pau,light,monoculture,53
+yes,dispersal,3,2,pau,light,polyculture,39
+yes,dispersal,3,2,rot,dark,monoculture,70
+yes,dispersal,3,2,rot,dark,polyculture,4
+yes,dispersal,3,2,rot,light,monoculture,24
+yes,dispersal,3,2,rot,light,polyculture,0
+yes,dispersal,3,2,spi,dark,monoculture,19
+yes,dispersal,3,2,spi,dark,polyculture,0
+yes,dispersal,3,2,spi,light,monoculture,15
+yes,dispersal,3,2,spi,light,polyculture,0
+yes,dispersal,3,2,tet,dark,monoculture,118
+yes,dispersal,3,2,tet,dark,polyculture,1
+yes,dispersal,3,2,tet,light,monoculture,65
+yes,dispersal,3,2,tet,light,polyculture,10
+yes,dispersal,3,3,col,dark,monoculture,126
+yes,dispersal,3,3,col,dark,polyculture,43
+yes,dispersal,3,3,col,light,monoculture,24
+yes,dispersal,3,3,col,light,polyculture,21
+yes,dispersal,3,3,eug,dark,monoculture,8260
+yes,dispersal,3,3,eug,dark,polyculture,36
+yes,dispersal,3,3,eug,light,monoculture,2279
+yes,dispersal,3,3,eug,light,polyculture,7
+yes,dispersal,3,3,eup,dark,monoculture,7
+yes,dispersal,3,3,eup,dark,polyculture,18
+yes,dispersal,3,3,eup,light,monoculture,74
+yes,dispersal,3,3,eup,light,polyculture,5
+yes,dispersal,3,3,pau,dark,monoculture,4
+yes,dispersal,3,3,pau,dark,polyculture,1
+yes,dispersal,3,3,pau,light,monoculture,27
+yes,dispersal,3,3,pau,light,polyculture,6
+yes,dispersal,3,3,rot,dark,monoculture,54
+yes,dispersal,3,3,rot,dark,polyculture,3
+yes,dispersal,3,3,rot,light,monoculture,47
+yes,dispersal,3,3,rot,light,polyculture,0
+yes,dispersal,3,3,spi,dark,monoculture,1
+yes,dispersal,3,3,spi,dark,polyculture,0
+yes,dispersal,3,3,spi,light,monoculture,5
+yes,dispersal,3,3,spi,light,polyculture,1
+yes,dispersal,3,3,tet,dark,monoculture,73
+yes,dispersal,3,3,tet,dark,polyculture,10
+yes,dispersal,3,3,tet,light,monoculture,56
+yes,dispersal,3,3,tet,light,polyculture,4
+yes,dispersal,3,4,col,dark,monoculture,165
+yes,dispersal,3,4,col,dark,polyculture,25
+yes,dispersal,3,4,col,light,monoculture,56
+yes,dispersal,3,4,col,light,polyculture,32
+yes,dispersal,3,4,eug,dark,monoculture,13091
+yes,dispersal,3,4,eug,dark,polyculture,7
+yes,dispersal,3,4,eug,light,monoculture,2385
+yes,dispersal,3,4,eug,light,polyculture,33
+yes,dispersal,3,4,eup,dark,monoculture,111
+yes,dispersal,3,4,eup,dark,polyculture,38
+yes,dispersal,3,4,eup,light,monoculture,115
+yes,dispersal,3,4,eup,light,polyculture,6
+yes,dispersal,3,4,pau,dark,monoculture,1
+yes,dispersal,3,4,pau,dark,polyculture,1
+yes,dispersal,3,4,pau,light,monoculture,10
+yes,dispersal,3,4,pau,light,polyculture,1
+yes,dispersal,3,4,rot,dark,monoculture,195
+yes,dispersal,3,4,rot,dark,polyculture,0
+yes,dispersal,3,4,rot,light,monoculture,113
+yes,dispersal,3,4,rot,light,polyculture,2
+yes,dispersal,3,4,spi,dark,monoculture,26
+yes,dispersal,3,4,spi,dark,polyculture,0
+yes,dispersal,3,4,spi,light,monoculture,153
+yes,dispersal,3,4,spi,light,polyculture,0
+yes,dispersal,3,4,tet,dark,monoculture,132
+yes,dispersal,3,4,tet,dark,polyculture,9
+yes,dispersal,3,4,tet,light,monoculture,179
+yes,dispersal,3,4,tet,light,polyculture,4
+yes,dispersal,4,1,col,dark,polyculture,160
+yes,dispersal,4,1,col,light,polyculture,17
+yes,dispersal,4,1,eug,dark,polyculture,38
+yes,dispersal,4,1,eug,light,polyculture,103
+yes,dispersal,4,1,eup,dark,polyculture,1
+yes,dispersal,4,1,eup,light,polyculture,0
+yes,dispersal,4,1,pau,dark,polyculture,21
+yes,dispersal,4,1,pau,light,polyculture,10
+yes,dispersal,4,1,rot,dark,polyculture,65
+yes,dispersal,4,1,rot,light,polyculture,4
+yes,dispersal,4,1,spi,dark,polyculture,5
+yes,dispersal,4,1,spi,light,polyculture,0
+yes,dispersal,4,1,tet,dark,polyculture,58
+yes,dispersal,4,1,tet,light,polyculture,51
+yes,dispersal,4,2,col,dark,polyculture,48
+yes,dispersal,4,2,col,light,polyculture,19
+yes,dispersal,4,2,eug,dark,polyculture,16
+yes,dispersal,4,2,eug,light,polyculture,23
+yes,dispersal,4,2,eup,dark,polyculture,14
+yes,dispersal,4,2,eup,light,polyculture,3
+yes,dispersal,4,2,pau,dark,polyculture,14
+yes,dispersal,4,2,pau,light,polyculture,8
+yes,dispersal,4,2,rot,dark,polyculture,21
+yes,dispersal,4,2,rot,light,polyculture,15
+yes,dispersal,4,2,spi,dark,polyculture,4
+yes,dispersal,4,2,spi,light,polyculture,2
+yes,dispersal,4,2,tet,dark,polyculture,5
+yes,dispersal,4,2,tet,light,polyculture,25
+yes,dispersal,4,3,col,dark,polyculture,17
+yes,dispersal,4,3,col,light,polyculture,34
+yes,dispersal,4,3,eug,dark,polyculture,4
+yes,dispersal,4,3,eug,light,polyculture,23
+yes,dispersal,4,3,eup,dark,polyculture,11
+yes,dispersal,4,3,eup,light,polyculture,0
+yes,dispersal,4,3,pau,dark,polyculture,0
+yes,dispersal,4,3,pau,light,polyculture,6
+yes,dispersal,4,3,rot,dark,polyculture,7
+yes,dispersal,4,3,rot,light,polyculture,2
+yes,dispersal,4,3,spi,dark,polyculture,0
+yes,dispersal,4,3,spi,light,polyculture,2
+yes,dispersal,4,3,tet,dark,polyculture,0
+yes,dispersal,4,3,tet,light,polyculture,0
+yes,dispersal,4,4,col,dark,polyculture,9
+yes,dispersal,4,4,col,light,polyculture,68
+yes,dispersal,4,4,eug,dark,polyculture,7
+yes,dispersal,4,4,eug,light,polyculture,17
+yes,dispersal,4,4,eup,dark,polyculture,38
+yes,dispersal,4,4,eup,light,polyculture,2
+yes,dispersal,4,4,pau,dark,polyculture,6
+yes,dispersal,4,4,pau,light,polyculture,8
+yes,dispersal,4,4,rot,dark,polyculture,6
+yes,dispersal,4,4,rot,light,polyculture,4
+yes,dispersal,4,4,spi,dark,polyculture,2
+yes,dispersal,4,4,spi,light,polyculture,0
+yes,dispersal,4,4,tet,dark,polyculture,7
+yes,dispersal,4,4,tet,light,polyculture,4
+yes,dispersal,5,1,col,dark,polyculture,66
+yes,dispersal,5,1,col,light,polyculture,43
+yes,dispersal,5,1,eug,dark,polyculture,48
+yes,dispersal,5,1,eug,light,polyculture,228
+yes,dispersal,5,1,eup,dark,polyculture,6
+yes,dispersal,5,1,eup,light,polyculture,6
+yes,dispersal,5,1,pau,dark,polyculture,21
+yes,dispersal,5,1,pau,light,polyculture,15
+yes,dispersal,5,1,rot,dark,polyculture,47
+yes,dispersal,5,1,rot,light,polyculture,16
+yes,dispersal,5,1,spi,dark,polyculture,6
+yes,dispersal,5,1,spi,light,polyculture,1
+yes,dispersal,5,1,tet,dark,polyculture,40
+yes,dispersal,5,1,tet,light,polyculture,97
+yes,dispersal,5,2,col,dark,polyculture,105
+yes,dispersal,5,2,col,light,polyculture,24
+yes,dispersal,5,2,eug,dark,polyculture,6
+yes,dispersal,5,2,eug,light,polyculture,15
+yes,dispersal,5,2,eup,dark,polyculture,6
+yes,dispersal,5,2,eup,light,polyculture,4
+yes,dispersal,5,2,pau,dark,polyculture,28
+yes,dispersal,5,2,pau,light,polyculture,13
+yes,dispersal,5,2,rot,dark,polyculture,6
+yes,dispersal,5,2,rot,light,polyculture,0
+yes,dispersal,5,2,spi,dark,polyculture,0
+yes,dispersal,5,2,spi,light,polyculture,0
+yes,dispersal,5,2,tet,dark,polyculture,0
+yes,dispersal,5,2,tet,light,polyculture,4
+yes,dispersal,5,3,col,dark,polyculture,13
+yes,dispersal,5,3,col,light,polyculture,10
+yes,dispersal,5,3,eug,dark,polyculture,11
+yes,dispersal,5,3,eug,light,polyculture,3
+yes,dispersal,5,3,eup,dark,polyculture,10
+yes,dispersal,5,3,eup,light,polyculture,1
+yes,dispersal,5,3,pau,dark,polyculture,13
+yes,dispersal,5,3,pau,light,polyculture,1
+yes,dispersal,5,3,rot,dark,polyculture,0
+yes,dispersal,5,3,rot,light,polyculture,4
+yes,dispersal,5,3,spi,dark,polyculture,0
+yes,dispersal,5,3,spi,light,polyculture,0
+yes,dispersal,5,3,tet,dark,polyculture,0
+yes,dispersal,5,3,tet,light,polyculture,0
+yes,dispersal,5,4,col,dark,polyculture,16
+yes,dispersal,5,4,col,light,polyculture,66
+yes,dispersal,5,4,eug,dark,polyculture,18
+yes,dispersal,5,4,eug,light,polyculture,20
+yes,dispersal,5,4,eup,dark,polyculture,34
+yes,dispersal,5,4,eup,light,polyculture,0
+yes,dispersal,5,4,pau,dark,polyculture,11
+yes,dispersal,5,4,pau,light,polyculture,0
+yes,dispersal,5,4,rot,dark,polyculture,1
+yes,dispersal,5,4,rot,light,polyculture,1
+yes,dispersal,5,4,spi,dark,polyculture,0
+yes,dispersal,5,4,spi,light,polyculture,1
+yes,dispersal,5,4,tet,dark,polyculture,11
+yes,dispersal,5,4,tet,light,polyculture,3
+yes,dispersal,6,1,col,dark,polyculture,88
+yes,dispersal,6,1,col,light,polyculture,42
+yes,dispersal,6,1,eug,dark,polyculture,15
+yes,dispersal,6,1,eug,light,polyculture,244
+yes,dispersal,6,1,eup,dark,polyculture,0
+yes,dispersal,6,1,eup,light,polyculture,9
+yes,dispersal,6,1,pau,dark,polyculture,17
+yes,dispersal,6,1,pau,light,polyculture,33
+yes,dispersal,6,1,rot,dark,polyculture,36
+yes,dispersal,6,1,rot,light,polyculture,23
+yes,dispersal,6,1,spi,dark,polyculture,3
+yes,dispersal,6,1,spi,light,polyculture,16
+yes,dispersal,6,1,tet,dark,polyculture,15
+yes,dispersal,6,1,tet,light,polyculture,138
+yes,dispersal,6,2,col,dark,polyculture,101
+yes,dispersal,6,2,col,light,polyculture,24
+yes,dispersal,6,2,eug,dark,polyculture,13
+yes,dispersal,6,2,eug,light,polyculture,18
+yes,dispersal,6,2,eup,dark,polyculture,28
+yes,dispersal,6,2,eup,light,polyculture,2
+yes,dispersal,6,2,pau,dark,polyculture,44
+yes,dispersal,6,2,pau,light,polyculture,18
+yes,dispersal,6,2,rot,dark,polyculture,2
+yes,dispersal,6,2,rot,light,polyculture,0
+yes,dispersal,6,2,spi,dark,polyculture,1
+yes,dispersal,6,2,spi,light,polyculture,0
+yes,dispersal,6,2,tet,dark,polyculture,0
+yes,dispersal,6,2,tet,light,polyculture,9
+yes,dispersal,6,3,col,dark,polyculture,20
+yes,dispersal,6,3,col,light,polyculture,39
+yes,dispersal,6,3,eug,dark,polyculture,6
+yes,dispersal,6,3,eug,light,polyculture,16
+yes,dispersal,6,3,eup,dark,polyculture,5
+yes,dispersal,6,3,eup,light,polyculture,11
+yes,dispersal,6,3,pau,dark,polyculture,1
+yes,dispersal,6,3,pau,light,polyculture,6
+yes,dispersal,6,3,rot,dark,polyculture,0
+yes,dispersal,6,3,rot,light,polyculture,3
+yes,dispersal,6,3,spi,dark,polyculture,0
+yes,dispersal,6,3,spi,light,polyculture,1
+yes,dispersal,6,3,tet,dark,polyculture,4
+yes,dispersal,6,3,tet,light,polyculture,2
+yes,dispersal,6,4,col,dark,polyculture,17
+yes,dispersal,6,4,col,light,polyculture,74
+yes,dispersal,6,4,eug,dark,polyculture,2
+yes,dispersal,6,4,eug,light,polyculture,63
+yes,dispersal,6,4,eup,dark,polyculture,91
+yes,dispersal,6,4,eup,light,polyculture,3
+yes,dispersal,6,4,pau,dark,polyculture,4
+yes,dispersal,6,4,pau,light,polyculture,7
+yes,dispersal,6,4,rot,dark,polyculture,20
+yes,dispersal,6,4,rot,light,polyculture,3
+yes,dispersal,6,4,spi,dark,polyculture,0
+yes,dispersal,6,4,spi,light,polyculture,0
+yes,dispersal,6,4,tet,dark,polyculture,6
+yes,dispersal,6,4,tet,light,polyculture,6
