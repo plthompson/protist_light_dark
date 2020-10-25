@@ -76,7 +76,7 @@ ggplot(pre_differences, aes(x = predicted_species, y = difference, color = commu
   ylab(bquote('Response to light (indviduals '~mL^-1~')'))+
   xlab("Species")+
   facet_zoom(ylim = c(-300, 200))
-ggsave("./figures/Figure_S1.pdf", height = 4, width = 8)
+ggsave("./figures/Figure_S2.pdf", height = 4, width = 8)
 
 #calculate differences in population size between polyculture and monoculture
 all_data %>% 
@@ -103,7 +103,7 @@ all_data %>%
   scale_shape(name = NULL)+
   xlab("Species")+
   ylab(bquote('Individuals '~mL^-1))
-ggsave("./figures/Figure_S2.pdf", height = 4, width = 8)
+ggsave("./figures/Figure_S3.pdf", height = 4, width = 8)
 
 #add index for metacommunity
 all_data <- all_data %>% 

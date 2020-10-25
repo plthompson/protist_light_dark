@@ -69,7 +69,7 @@ ggplot(eug_pops, aes(x = N, y = N_predict))+
   geom_smooth(method = "lm")+
   xlab("Individuals in population")+
   ylab("Particles in single frame")
-ggsave("./figures/Euglena_estimate.pdf", height = 4, width = 4)
+ggsave("./figures/Figure_S1.pdf", height = 4, width = 4)
 
 missing_data <- filter(eug_pops, is.na(N))
 
